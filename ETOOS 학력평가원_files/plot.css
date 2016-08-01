@@ -1,9 +1,0 @@
-.valueLabels {
-	color: rgb(0, 0, 0); font-size: 8pt;
-}
-div.valueLabelLight {
-	border: currentColor; border-image: none; font-size: 8pt; position: absolute; opacity: 0.5; background-color: rgb(255, 255, 255);
-}
-div.valueLabel {
-	border: currentColor; border-image: none; position: absolute;
-}
