@@ -1,0 +1,21 @@
+.j-widget {
+	FONT-SIZE: 10pt; LINE-HEIGHT: 20px
+}
+.j-loading {
+	BORDER-RIGHT: #cccccc 4px solid; WIDTH: 350px; BORDER-BOTTOM: #cccccc 2px solid; POSITION: absolute
+}
+.j-loading-cont {
+	BORDER-TOP: #777 2px solid; BORDER-RIGHT: #777 2px solid; WIDTH: 348px; BACKGROUND: #fff; BORDER-BOTTOM: #777 2px solid; BORDER-LEFT: #777 2px solid
+}
+.j-loading-body {
+	TEXT-ALIGN: center; MARGIN: 20px 30px
+}
+.j-fl {
+	FLOAT: none
+}
+.j-cb {
+	MARGIN-TOP: 10px; CLEAR: both
+}
+.ax_overlay {
+	POSITION: absolute; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 0px; MARGIN: 0px; TOP: 0px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: #000000
+}

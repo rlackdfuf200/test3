@@ -1,0 +1,9 @@
+.valueLabels {
+	FONT-SIZE: 8pt; COLOR: #000
+}
+DIV.valueLabelLight {
+	FONT-SIZE: 8pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; POSITION: absolute; BORDER-LEFT: medium none; BACKGROUND-COLOR: #fff; opacity: 0.5
+}
+DIV.valueLabel {
+	BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; POSITION: absolute; BORDER-LEFT: medium none
+}
