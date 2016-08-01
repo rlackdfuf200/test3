@@ -1,0 +1,489 @@
+HTML {
+	FONT-SIZE: 100%; WIDTH: 100%; -MS-TEXT-SIZE-ADJUST: 100%; -webkit-text-size-adjust: 100%
+}
+BODY {
+	WORD-BREAK: break-all; BACKGROUND-COLOR: #fff; -ms-word-break: break-all
+}
+BODY {
+	FONT-SIZE: 13px; FONT-FAMILY: 'Malgun Gothic','¸¼Àº°íµñ','µ¸¿ò',dotum, sans-serif; FONT-WEIGHT: normal; COLOR: #666
+}
+H1 {
+	FONT-SIZE: 13px; FONT-FAMILY: 'Malgun Gothic','¸¼Àº°íµñ','µ¸¿ò',dotum, sans-serif; FONT-WEIGHT: normal; COLOR: #666
+}
+H2 {
+	FONT-SIZE: 13px; FONT-FAMILY: 'Malgun Gothic','¸¼Àº°íµñ','µ¸¿ò',dotum, sans-serif; FONT-WEIGHT: normal; COLOR: #666
+}
+H3 {
+	FONT-SIZE: 13px; FONT-FAMILY: 'Malgun Gothic','¸¼Àº°íµñ','µ¸¿ò',dotum, sans-serif; FONT-WEIGHT: normal; COLOR: #666
+}
+H4 {
+	FONT-SIZE: 13px; FONT-FAMILY: 'Malgun Gothic','¸¼Àº°íµñ','µ¸¿ò',dotum, sans-serif; FONT-WEIGHT: normal; COLOR: #666
+}
+TH {
+	FONT-SIZE: 13px; FONT-FAMILY: 'Malgun Gothic','¸¼Àº°íµñ','µ¸¿ò',dotum, sans-serif; FONT-WEIGHT: normal; COLOR: #666
+}
+TD {
+	FONT-SIZE: 13px; FONT-FAMILY: 'Malgun Gothic','¸¼Àº°íµñ','µ¸¿ò',dotum, sans-serif; FONT-WEIGHT: normal; COLOR: #666
+}
+INPUT {
+	FONT-SIZE: 13px; FONT-FAMILY: 'Malgun Gothic','¸¼Àº°íµñ','µ¸¿ò',dotum, sans-serif; FONT-WEIGHT: normal; COLOR: #666
+}
+SELECT {
+	FONT-SIZE: 13px; FONT-FAMILY: 'Malgun Gothic','¸¼Àº°íµñ','µ¸¿ò',dotum, sans-serif; FONT-WEIGHT: normal; COLOR: #666
+}
+BUTTON {
+	FONT-SIZE: 13px; FONT-FAMILY: 'Malgun Gothic','¸¼Àº°íµñ','µ¸¿ò',dotum, sans-serif; FONT-WEIGHT: normal; COLOR: #666
+}
+PRE {
+	FONT-SIZE: 13px; FONT-FAMILY: 'Malgun Gothic','¸¼Àº°íµñ','µ¸¿ò',dotum, sans-serif; FONT-WEIGHT: normal; COLOR: #666
+}
+TEXTAREA {
+	FONT-SIZE: 13px; FONT-FAMILY: 'Malgun Gothic','¸¼Àº°íµñ','µ¸¿ò',dotum, sans-serif; FONT-WEIGHT: normal; COLOR: #666
+}
+BODY {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+DIV {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+DL {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+DT {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+DD {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+UL {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+OL {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+LI {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+H1 {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+H2 {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+H3 {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+H4 {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+H5 {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+H6 {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+FORM {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+FIELDSET {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+P {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+BUTTON {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+PRE {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+INPUT {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+IMG {
+	BORDER-TOP: 0px; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; BORDER-LEFT: 0px
+}
+FIELDSET {
+	BORDER-TOP: 0px; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; BORDER-LEFT: 0px
+}
+IFRAME {
+	BORDER-TOP: 0px; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; BORDER-LEFT: 0px
+}
+LI {
+	LIST-STYLE-TYPE: none
+}
+INPUT {
+	VERTICAL-ALIGN: middle
+}
+SELECT {
+	VERTICAL-ALIGN: middle
+}
+BUTTON {
+	VERTICAL-ALIGN: middle
+}
+INPUT[type='text'] {
+	BORDER-TOP: #ddd 1px solid; HEIGHT: 16px; BORDER-RIGHT: #ddd 1px solid; BORDER-BOTTOM: #ddd 1px solid; OUTLINE-WIDTH: medium; PADDING-BOTTOM: 3px; PADDING-TOP: 4px; OUTLINE-STYLE: none; PADDING-LEFT: 6px; BORDER-LEFT: #ddd 1px solid; OUTLINE-COLOR: invert; PADDING-RIGHT: 2px
+}
+INPUT[type='password'] {
+	BORDER-TOP: #ddd 1px solid; HEIGHT: 16px; BORDER-RIGHT: #ddd 1px solid; BORDER-BOTTOM: #ddd 1px solid; OUTLINE-WIDTH: medium; PADDING-BOTTOM: 3px; PADDING-TOP: 4px; OUTLINE-STYLE: none; PADDING-LEFT: 6px; BORDER-LEFT: #ddd 1px solid; OUTLINE-COLOR: invert; PADDING-RIGHT: 2px
+}
+IMG {
+	VERTICAL-ALIGN: middle
+}
+I {
+	FONT-STYLE: normal
+}
+EM {
+	FONT-STYLE: normal
+}
+ADDRESS {
+	FONT-STYLE: normal
+}
+LABEL {
+	CURSOR: pointer
+}
+BUTTON {
+	CURSOR: pointer
+}
+BUTTON {
+	BORDER-TOP: 0px; BORDER-RIGHT: 0px; BACKGROUND: none transparent scroll repeat 0% 0%; BORDER-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+A {
+	TEXT-DECORATION: none; OUTLINE-WIDTH: medium; OUTLINE-STYLE: none; OUTLINE-COLOR: invert
+}
+A:hover {
+	TEXT-DECORATION: none; OUTLINE-WIDTH: medium; OUTLINE-STYLE: none; OUTLINE-COLOR: invert
+}
+A {
+	COLOR: #666
+}
+A:hover {
+	CURSOR: pointer
+}
+BUTTON * {
+	POSITION: relative
+}
+BUTTON IMG {
+	LEFT: auto
+}
+CAPTION {
+	DISPLAY: none
+}
+summary {
+	DISPLAY: none
+}
+HR {
+	DISPLAY: none
+}
+LEGEND {
+	DISPLAY: none
+}
+LEGEND {
+	WIDTH: 0px
+}
+.blind {
+	OVERFLOW: hidden; POSITION: absolute; LEFT: 0px; DISPLAY: block; TOP: -1000em; text-inent: -1000em
+}
+.overflow {
+	OVERFLOW: visible !important
+}
+INPUT.text {
+	BORDER-TOP: #ddd 1px solid; HEIGHT: 16px; BORDER-RIGHT: #ddd 1px solid; BORDER-BOTTOM: #ddd 1px solid; PADDING-BOTTOM: 3px; PADDING-TOP: 4px; PADDING-LEFT: 6px; BORDER-LEFT: #ddd 1px solid; PADDING-RIGHT: 2px
+}
+INPUT.text2 {
+	BORDER-TOP: #ddd 1px solid; BORDER-RIGHT: #ddd 1px solid; BORDER-BOTTOM: #ddd 1px solid; PADDING-BOTTOM: 4px; PADDING-TOP: 3px; PADDING-LEFT: 8px; BORDER-LEFT: #ddd 1px solid; PADDING-RIGHT: 4px
+}
+INPUT.radio {
+	MARGIN: -1px 2px 0px 0px
+}
+SELECT.select {
+	BORDER-TOP: #ddd 1px solid; BORDER-RIGHT: #ddd 1px solid; BORDER-BOTTOM: #ddd 1px solid; PADDING-BOTTOM: 3px; PADDING-TOP: 2px; PADDING-LEFT: 0px; BORDER-LEFT: #ddd 1px solid; PADDING-RIGHT: 1px
+}
+TEXTAREA {
+	BORDER-TOP: #cecece 1px solid; BORDER-RIGHT: #cecece 1px solid; BORDER-BOTTOM: #cecece 1px solid; BORDER-LEFT: #cecece 1px solid
+}
+.mgr_0 {
+	MARGIN-RIGHT: 0px !important
+}
+.mgr_5 {
+	MARGIN-RIGHT: 5px !important
+}
+.mgr_20 {
+	MARGIN-RIGHT: 20px !important
+}
+.mgb_0 {
+	MARGIN-BOTTOM: 0px !important
+}
+.mgb_5 {
+	MARGIN-BOTTOM: 5px !important
+}
+.mgb_10 {
+	MARGIN-BOTTOM: 10px !important
+}
+.mgb_15 {
+	MARGIN-BOTTOM: 15px !important
+}
+.mgb_20 {
+	MARGIN-BOTTOM: 20px !important
+}
+.mgb_27 {
+	MARGIN-BOTTOM: 27px !important
+}
+.mgb_30 {
+	MARGIN-BOTTOM: 30px !important
+}
+.mgb_40 {
+	MARGIN-BOTTOM: 40px !important
+}
+.mgb_50 {
+	MARGIN-BOTTOM: 50px !important
+}
+.mgbm_20 {
+	MARGIN-BOTTOM: -20px !important
+}
+.mglm_1 {
+	MARGIN-LEFT: -1px !important
+}
+.mgl_0 {
+	MARGIN-LEFT: 0px !important
+}
+.mgl_5 {
+	MARGIN-LEFT: 5px !important
+}
+.mgl_10 {
+	MARGIN-LEFT: 10px !important
+}
+.mgl_15 {
+	MARGIN-LEFT: 15px !important
+}
+.mgl_20 {
+	MARGIN-LEFT: 20px !important
+}
+.mgl_30 {
+	MARGIN-LEFT: 30px !important
+}
+.mgl_35 {
+	MARGIN-LEFT: 35px !important
+}
+.mgl_50 {
+	MARGIN-LEFT: 50px !important
+}
+.mgl_70 {
+	MARGIN-LEFT: 70px !important
+}
+.mgl_102 {
+	MARGIN-LEFT: 102px !important
+}
+.mgl_115 {
+	MARGIN-LEFT: 115px !important
+}
+.mgl_125 {
+	MARGIN-LEFT: 125px !important
+}
+.mgt_0 {
+	MARGIN-TOP: 0px !important
+}
+.mgt_5 {
+	MARGIN-TOP: 5px !important
+}
+.mgt_10 {
+	MARGIN-TOP: 10px !important
+}
+.mgt_12 {
+	MARGIN-TOP: 12px !important
+}
+.mgt_20 {
+	MARGIN-TOP: 20px !important
+}
+.mgt_30 {
+	MARGIN-TOP: 30px !important
+}
+.mgt_15 {
+	MARGIN-TOP: 15px !important
+}
+.mgt_25 {
+	MARGIN-TOP: 25px !important
+}
+.mgt_28 {
+	MARGIN-TOP: 28px !important
+}
+.mgt_38 {
+	MARGIN-TOP: 38px !important
+}
+.mgt_40 {
+	MARGIN-TOP: 40px !important
+}
+.mgt_50 {
+	MARGIN-TOP: 50px !important
+}
+.mgt_80 {
+	MARGIN-TOP: 80px !important
+}
+.mgtm_1 {
+	MARGIN-TOP: -1px !important
+}
+.mgtm_5 {
+	MARGIN-TOP: -5px !important
+}
+.pdt_0 {
+	PADDING-TOP: 0px !important
+}
+.pdt_10 {
+	PADDING-TOP: 10px !important
+}
+.pdt_20 {
+	PADDING-TOP: 20px !important
+}
+.pdt_30 {
+	PADDING-TOP: 30px !important
+}
+.pdb_10 {
+	PADDING-BOTTOM: 10px !important
+}
+.pdb_30 {
+	PADDING-BOTTOM: 30px !important
+}
+.bg_none {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.bor_none {
+	BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none
+}
+.bar {
+	BACKGROUND: url(../../images/exam/bg/bg_bar3.gif) no-repeat right 2px
+}
+.f_left {
+	FLOAT: left
+}
+.f_right {
+	FLOAT: right
+}
+.f_none {
+	FLOAT: none
+}
+.fclear:after {
+	HEIGHT: 0px; CLEAR: both; DISPLAY: block; VISIBILITY: hidden
+}
+.txt_c {
+	TEXT-ALIGN: center !important
+}
+.txt_c TD {
+	TEXT-ALIGN: center !important
+}
+.txt_c TH {
+	TEXT-ALIGN: center !important
+}
+TD.txt_c {
+	TEXT-ALIGN: center !important
+}
+.txt_l {
+	TEXT-ALIGN: left !important
+}
+.txt_l TD {
+	TEXT-ALIGN: left !important
+}
+.txt_l TH {
+	TEXT-ALIGN: left !important
+}
+TD.txt_l {
+	TEXT-ALIGN: left !important
+}
+.txt_r {
+	TEXT-ALIGN: right !important
+}
+.txt_r TD {
+	TEXT-ALIGN: right !important
+}
+.txt_r TH {
+	TEXT-ALIGN: right !important
+}
+TD.txt_r {
+	TEXT-ALIGN: right !important
+}
+.txt_vt {
+	VERTICAL-ALIGN: top
+}
+.txt_mt {
+	VERTICAL-ALIGN: middle
+}
+.btn_area {
+	TEXT-ALIGN: center; MARGIN: 30px 0px 0px
+}
+A.link:hover {
+	COLOR: #6e1a1e
+}
+.bg_color1 {
+	BACKGROUND-COLOR: #f2f2f2
+}
+.bg_color2 {
+	BACKGROUND-COLOR: #53b85c
+}
+.bg_color3 {
+	BACKGROUND-COLOR: #ab895f
+}
+.fc_point {
+	COLOR: #23409e !important
+}
+.fc_red {
+	COLOR: #dd4b47 !important
+}
+.fc111 {
+	COLOR: #111 !important
+}
+.fc222 {
+	COLOR: #222 !important
+}
+.fc333 {
+	COLOR: #333 !important
+}
+.fc999 {
+	COLOR: #999 !important
+}
+.fcfff {
+	COLOR: #fff !important
+}
+.fs11 {
+	FONT-SIZE: 11px !important
+}
+.fs12 {
+	FONT-SIZE: 12px !important
+}
+.fs13 {
+	FONT-SIZE: 13px !important
+}
+.fs14 {
+	FONT-SIZE: 14px !important
+}
+.fs15 {
+	FONT-SIZE: 15px !important
+}
+.fs16 {
+	FONT-SIZE: 16px !important
+}
+.fs18 {
+	FONT-SIZE: 18px !important
+}
+.fs20 {
+	FONT-SIZE: 20px !important
+}
+.fs22 {
+	FONT-SIZE: 22px !important
+}
+.fs30 {
+	FONT-SIZE: 30px !important
+}
+.fs33 {
+	FONT-SIZE: 33px !important
+}
+.under {
+	TEXT-DECORATION: underline
+}
+.ellipsis {
+	OVERFLOW: hidden; WHITE-SPACE: nowrap; TEXT-OVERFLOW: ellipsis
+}
+.scroll {
+	OVERFLOW: scroll; OVERFLOW-X: hidden
+}
+#l_mask {
+	HEIGHT: 100%; WIDTH: 100%; POSITION: fixed; LEFT: 0px; FILTER: alpha(opacity=70); Z-INDEX: 1000; TOP: 0px; BACKGROUND-COLOR: #000; opacity: 0.7
+}

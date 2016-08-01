@@ -1,0 +1,2868 @@
+.cont {
+	PADDING-BOTTOM: 70px; PADDING-TOP: 45px; MIN-HEIGHT: 500px
+}
+.tbox {
+	OVERFLOW: hidden; MARGIN-BOTTOM: 30px; BACKGROUND: url(../../images/exam/bg/bg_line.gif) 0px 0px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px
+}
+.tbox .inbox {
+	FONT-SIZE: 12px; OVERFLOW: hidden; BACKGROUND: #fff; POSITION: relative; PADDING-BOTTOM: 20px; PADDING-TOP: 25px; PADDING-LEFT: 35px; PADDING-RIGHT: 35px
+}
+.tbox .inbox DL:after {
+	CLEAR: both; DISPLAY: block
+}
+.tbox .inbox DT {
+	FONT-SIZE: 13px; HEIGHT: 50px; WIDTH: 62px; BACKGROUND: url(../../images/exam/bg/bg_tbox.gif) no-repeat 0px 0px; FLOAT: left; FONT-WEIGHT: bold; COLOR: #fff; TEXT-ALIGN: center; PADDING-TOP: 27px; LETTER-SPACING: -1px
+}
+.tbox .inbox DT.comment {
+	HEIGHT: 41px; WIDTH: 43px; BACKGROUND: url(../../images/exam/icon/ic_comment.gif) no-repeat 0px 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; TEXT-INDENT: -99999em
+}
+.tbox .inbox DD {
+	FONT-SIZE: 12px; WIDTH: 670px; FLOAT: left; COLOR: #666; MARGIN: -8px 0px 0px 25px; LETTER-SPACING: -1px; LINE-HEIGHT: 22px
+}
+.tbox .inbox DD STRONG {
+	COLOR: #333
+}
+.tbox .inbox DD A {
+	TEXT-DECORATION: underline; COLOR: #de4f4b
+}
+.tbox .ending {
+	FONT-SIZE: 16px; PADDING-BOTTOM: 60px; TEXT-ALIGN: center; PADDING-TOP: 60px
+}
+.tbox .ending STRONG {
+	FONT-SIZE: 33px; MARGIN-BOTTOM: 25px; BACKGROUND: url(../../images/exam/icon/ic_end.gif) no-repeat 0px 5px; FONT-WEIGHT: normal; COLOR: #222; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; PADDING-LEFT: 55px; DISPLAY: inline-block; LINE-HEIGHT: 37px; PADDING-RIGHT: 0px
+}
+.tbox .ending2 {
+	FONT-SIZE: 18px; COLOR: #333; PADDING-BOTTOM: 35px; TEXT-ALIGN: center; PADDING-TOP: 33px
+}
+.tbox .under_box {
+	BORDER-TOP: #dbdbdb 1px solid; MARGIN-TOP: 28px; PADDING-TOP: 28px
+}
+.tbox .under_box2 {
+	FONT-SIZE: 15px; BORDER-TOP: #dbdbdb 1px solid; MARGIN-TOP: 28px; BORDER-BOTTOM: #dbdbdb 1px solid; PADDING-BOTTOM: 18px; PADDING-TOP: 18px
+}
+.tbox .under_box2 .dot_list {
+	WIDTH: 300px; TEXT-ALIGN: left; MARGIN: 20px auto 0px
+}
+.tbox .ending3 {
+	FONT-SIZE: 15px; POSITION: relative; PADDING-BOTTOM: 35px; PADDING-TOP: 35px; PADDING-LEFT: 86px; LINE-HEIGHT: 22px; PADDING-RIGHT: 86px
+}
+.tbox .ending3 .btn_white {
+	POSITION: absolute; PADDING-BOTTOM: 10px; PADDING-TOP: 8px; PADDING-LEFT: 27px; LEFT: 693px; TOP: 46px; PADDING-RIGHT: 27px
+}
+.tbox .ending4 {
+	POSITION: relative; PADDING-BOTTOM: 23px; PADDING-TOP: 23px; PADDING-LEFT: 50px; LINE-HEIGHT: 20px; PADDING-RIGHT: 50px
+}
+.tbox .ending4 .btn {
+	RIGHT: 50px; POSITION: absolute; TOP: 37px
+}
+.tbox .analysis_box {
+	COLOR: #333; TEXT-ALIGN: center
+}
+.tbox .analysis_box DT {
+	HEIGHT: 51px; WIDTH: 91px; BACKGROUND: url(../../images/exam/bg/bg_arr_left.png) #ededed no-repeat right center; FLOAT: left; FONT-WEIGHT: bold; LINE-HEIGHT: 51px
+}
+.tbox .analysis_box DT:first-child {
+	WIDTH: 93px
+}
+.tbox .analysis_box DD {
+	FONT-SIZE: 20px; HEIGHT: 51px; WIDTH: 93px; FLOAT: left; COLOR: #23409e; LINE-HEIGHT: 51px; BACKGROUND-COLOR: #fff
+}
+.tbox .question {
+	PADDING-BOTTOM: 35px; PADDING-TOP: 35px; PADDING-LEFT: 50px; PADDING-RIGHT: 50px
+}
+.tbox .question P {
+	FONT-SIZE: 18px; COLOR: #333; TEXT-ALIGN: center; LINE-HEIGHT: 27px
+}
+.tbox .question P IMG {
+	MARGIN-TOP: -2px; DISPLAY: inline-block
+}
+.tbox .question .note {
+	BORDER-TOP: #dbdbdb 1px solid; MARGIN-TOP: 20px; PADDING-BOTTOM: 0px; PADDING-TOP: 20px; PADDING-LEFT: 50px; PADDING-RIGHT: 0px
+}
+.tbox .question .note .tit {
+	MARGIN-BOTTOM: 10px; COLOR: #333; DISPLAY: block
+}
+.tbox .question .note UL LI {
+	MARGIN-TOP: 6px; LINE-HEIGHT: 12px
+}
+.tbox2 {
+	OVERFLOW: hidden; BACKGROUND: url(../../images/exam/bg/bg_line.gif) 0px 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 2px; PADDING-LEFT: 0px; MARGIN: 0px 0px 30px; PADDING-RIGHT: 0px
+}
+.tbox2 .inbox {
+	FONT-SIZE: 12px; OVERFLOW: hidden; BACKGROUND: #fff; PADDING-BOTTOM: 40px; PADDING-TOP: 20px; PADDING-LEFT: 3px; PADDING-RIGHT: 25px
+}
+.tbox .analysis_box {
+	CLEAR: both; DISPLAY: block
+}
+.tbox2 .inbox DL:after {
+	CLEAR: both; DISPLAY: block
+}
+.tbox2 .inbox DT {
+	FONT-SIZE: 0px; HEIGHT: 60px; WIDTH: 60px; BACKGROUND: url(../../images/exam/bg/bg_tbox2.gif) no-repeat 0px 0px; FLOAT: left; TEXT-ALIGN: center; MARGIN-LEFT: 5px; LETTER-SPACING: -1px
+}
+.tbox2 .inbox DD {
+	FONT-SIZE: 12px; FLOAT: left; COLOR: #888; MARGIN: -5px 0px 0px 15px; LETTER-SPACING: -1px; LINE-HEIGHT: 24px
+}
+.tbox2 .inbox DD STRONG {
+	COLOR: #333
+}
+.tbox2 .inbox DD A {
+	TEXT-DECORATION: underline; COLOR: #de4f4b
+}
+.tbox .s {
+	FONT-SIZE: 11px; TEXT-DECORATION: none !important; COLOR: #333 !important; PADDING-BOTTOM: 4px; PADDING-TOP: 3px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px
+}
+.tbox .inbox DD .list LI {
+	BACKGROUND: url(../../images/exam/bg/bg_dot.gif) no-repeat 0px 10px; PADDING-LEFT: 6px; LINE-HEIGHT: 22px
+}
+.tbox2 .inbox DD .list LI {
+	BACKGROUND: url(../../images/exam/bg/bg_dot.gif) no-repeat 0px 10px; PADDING-LEFT: 6px; LINE-HEIGHT: 22px
+}
+.list LI {
+	BACKGROUND: url(../../images/exam/bg/bg_dot.gif) no-repeat 0px 10px; PADDING-LEFT: 6px; LINE-HEIGHT: 22px
+}
+.bull_st1 {
+	BACKGROUND: url(../../images/exam/bg/bg_dot.gif) no-repeat 0px 10px; PADDING-LEFT: 6px; LINE-HEIGHT: 22px
+}
+.smalldot_list LI {
+	BACKGROUND: url(../../images/exam/bg/bg_dot.gif) no-repeat 0px 10px; PADDING-LEFT: 6px; LINE-HEIGHT: 22px
+}
+.tbox OL.list LI {
+	BACKGROUND: none transparent scroll repeat 0% 0%; PADDING-LEFT: 0px !important; CLEAR: both
+}
+.tbox OL.list LI EM.num {
+	FONT-SIZE: 11px; HEIGHT: 16px; WIDTH: 15px; BACKGROUND: url(../../images/exam/bg/bg_num.gif) no-repeat 0px 0px; FLOAT: left; COLOR: #fff; TEXT-ALIGN: center; MARGIN: 4px 4px 0px 0px; LINE-HEIGHT: 16px
+}
+.tbox .list LI SPAN {
+	FLOAT: left; DISPLAY: block
+}
+.tbox3 {
+	BACKGROUND: #f7f7f7; PADDING-BOTTOM: 20px; PADDING-TOP: 10px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px
+}
+.p_notice {
+	FONT-SIZE: 12px; BACKGROUND: url(../../images/exam/bg/bg_notice.gif) no-repeat left 4px; MARGIN-TOP: 6px; COLOR: #666; PADDING-LEFT: 16px; LINE-HEIGHT: 17px
+}
+.v2 {
+	FONT-SIZE: 13px; BACKGROUND: url(../../images/exam/bg/bg_notice2.gif) no-repeat left 4px; COLOR: #de4f4b
+}
+.bul_st {
+	MARGIN-BOTTOM: 10px; BACKGROUND: url(../../images/exam/bg/bg_dot2.gif) no-repeat 0px 6px; FONT-WEIGHT: bold; COLOR: #333; PADDING-LEFT: 10px; LINE-HEIGHT: 16px
+}
+.dot_list LI {
+	MARGIN-BOTTOM: 10px; BACKGROUND: url(../../images/exam/bg/bg_dot2.gif) no-repeat 0px 6px; FONT-WEIGHT: bold; COLOR: #333; PADDING-LEFT: 10px; LINE-HEIGHT: 16px
+}
+.bull_st2 {
+	MARGIN-BOTTOM: 10px; BACKGROUND: url(../../images/exam/bg/bg_dot2.gif) no-repeat 0px 6px; FONT-WEIGHT: bold; COLOR: #333; PADDING-LEFT: 10px; LINE-HEIGHT: 16px
+}
+.bg_dot {
+	HEIGHT: 2px; BACKGROUND: url(../../images/exam/bg/bg_dot_line2.gif) 0px 0px; MARGIN-TOP: 30px
+}
+.ic_zoom {
+	FONT-SIZE: 12px; TEXT-DECORATION: underline; BACKGROUND: url(../../images/exam/icon/ic_zoom.gif) no-repeat 0px 0px; COLOR: #de4f4b; PADDING-LEFT: 20px; LINE-HEIGHT: 16px
+}
+.sub_tab_all {
+	POSITION: relative
+}
+.sub_tab_basic {
+	OVERFLOW: hidden; MARGIN-BOTTOM: 30px
+}
+.sub_tab_basic LI {
+	FONT-SIZE: 12px; BORDER-TOP: #dfdfdf 1px solid; BORDER-RIGHT: #dfdfdf 1px solid; WIDTH: 103px; BORDER-BOTTOM: #adadad 1px solid; FLOAT: left; TEXT-ALIGN: center; marg: -1px
+}
+.sub_tab_basic LI A {
+	HEIGHT: 14px; BACKGROUND: #f8f8f8; COLOR: #333; PADDING-BOTTOM: 14px; TEXT-ALIGN: center; PADDING-TOP: 14px; PADDING-LEFT: 0px; DISPLAY: block; PADDING-RIGHT: 0px
+}
+.sub_tab_basic LI:first-child {
+	BORDER-LEFT: #dfdfdf 1px solid
+}
+.sub_tab_basic LI.on {
+	BORDER-TOP: #23409e 2px solid; BORDER-RIGHT: #adadad 1px solid; BORDER-BOTTOM: medium none; MARGIN-LEFT: -1px; BORDER-LEFT: #adadad 1px solid
+}
+.sub_tab_basic LI:hover {
+	BORDER-TOP: #23409e 2px solid; BORDER-RIGHT: #adadad 1px solid; BORDER-BOTTOM: medium none; MARGIN-LEFT: -1px; BORDER-LEFT: #adadad 1px solid
+}
+.sub_tab_basic LI.on A {
+	TEXT-DECORATION: none; WIDTH: 100%; BACKGROUND: #fff; FONT-WEIGHT: bold; COLOR: #23409e; PADDING-BOTTOM: 16px; PADDING-TOP: 12px; PADDING-LEFT: 0px; DISPLAY: block; PADDING-RIGHT: 0px
+}
+.sub_tab_basic LI A:hover {
+	TEXT-DECORATION: none; WIDTH: 100%; BACKGROUND: #fff; FONT-WEIGHT: bold; COLOR: #23409e; PADDING-BOTTOM: 16px; PADDING-TOP: 12px; PADDING-LEFT: 0px; DISPLAY: block; PADDING-RIGHT: 0px
+}
+.sub_tab_basic LI:first-child.on {
+	MARGIN-LEFT: 0px
+}
+.sub_tab_basic LI:first-child:hover {
+	MARGIN-LEFT: 0px
+}
+.col2 LI {
+	WIDTH: 418px
+}
+.col3 LI.first {
+	WIDTH: 280px
+}
+.col3 LI {
+	WIDTH: 278px
+}
+.col4 LI {
+	WIDTH: 209px
+}
+.col4 LI.first {
+	WIDTH: 208px
+}
+.col5 LI {
+	WIDTH: 167px
+}
+.col5 LI.first {
+	WIDTH: 166px
+}
+.col6 LI {
+	WIDTH: 139px
+}
+.col6 LI.first {
+	WIDTH: 138px
+}
+.col7 LI {
+	WIDTH: 118px
+}
+.col7 LI.first {
+	WIDTH: 119px
+}
+.col9 LI {
+	WIDTH: 82px
+}
+.col10 LI {
+	WIDTH: 83px
+}
+.col10 LI.last {
+	WIDTH: 82px
+}
+.w87 LI {
+	WIDTH: 87px
+}
+.mini_tab_basic {
+	MARGIN-TOP: -20px; BORDER-BOTTOM: #d0d1d1 1px solid; PADDING-BOTTOM: 10px
+}
+.mini_tab_basic:after {
+	CLEAR: both; DISPLAY: block
+}
+.mini_tab_basic > LI {
+	BACKGROUND: url(../../images/exam/bg/bg_bar.gif) no-repeat 0px 5px; FLOAT: left; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 14px; PADDING-RIGHT: 14px
+}
+.mini_tab_basic > LI:first-child {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.mini_tab_basic > LI > A {
+	DISPLAY: block
+}
+.mini_tab_basic > LI.on A {
+	FONT-WEIGHT: bold; COLOR: #222
+}
+.mini_tab_basic > LI:hover A {
+	FONT-WEIGHT: bold; COLOR: #222
+}
+.mini_tab_basic LI.btn_open_layer .on {
+	FONT-WEIGHT: bold; COLOR: #222
+}
+.mini_tab_basic LI.btn_open_layer {
+	POSITION: relative
+}
+.mini_tab_basic LI.btn_open_layer > A {
+	BACKGROUND: url(../../images/exam/icon/ic_arr_tab_off.gif) no-repeat right 2px; PADDING-RIGHT: 14px
+}
+.mini_tab_basic > LI.btn_open_layer A.on {
+	BACKGROUND-IMAGE: url(../../images/exam/icon/ic_arr_tab_on.gif)
+}
+.mini_tab_basic LI.btn_open_layer > A.on {
+	BACKGROUND-IMAGE: url(../../images/exam/icon/ic_arr_tab_on.gif)
+}
+.mini_tab_basic LI.btn_open_layer > A:hover {
+	BACKGROUND-IMAGE: url(../../images/exam/icon/ic_arr_tab_on.gif)
+}
+.btn_open_layer {
+	PADDING-BOTTOM: 0px !important; PADDING-TOP: 0px !important; PADDING-LEFT: 20px !important; PADDING-RIGHT: 20px !important
+}
+.btn_open_layer .tab_mini_layer {
+	BORDER-TOP: #ddd 1px solid; BORDER-RIGHT: #ddd 1px solid; WIDTH: 106px; BACKGROUND: #fff; BORDER-BOTTOM: #ddd 1px solid; POSITION: absolute; LEFT: 0px; BORDER-LEFT: #ddd 1px solid; DISPLAY: none; TOP: 27px
+}
+.btn_open_layer .tab_mini_layer UL {
+	HEIGHT: 110px; OVERFLOW-Y: scroll
+}
+.btn_open_layer .tab_mini_layer A {
+	PADDING-BOTTOM: 4px; PADDING-TOP: 6px; PADDING-LEFT: 7px; DISPLAY: block; LETTER-SPACING: -1px; PADDING-RIGHT: 7px
+}
+.mini_tab_basic > LI.btn_open_layer A.on .tab_mini_layer A {
+	FONT-WEIGHT: normal; COLOR: #666
+}
+.mini_tab_basic LI.btn_open_layer .tab_mini_layer A {
+	FONT-WEIGHT: normal; COLOR: #666
+}
+.sub_tab_big {
+	OVERFLOW: hidden
+}
+.sub_tab_big LI {
+	HEIGHT: 64px; WIDTH: 420px; FLOAT: left
+}
+.sub_tab_big LI A {
+	FONT-SIZE: 18px; HEIGHT: 100%; BACKGROUND: url(../../images/exam/bg/bg_tab_big_col2.gif) no-repeat 0px 0px; COLOR: #fff; TEXT-ALIGN: center; DISPLAY: block; LETTER-SPACING: -1px; LINE-HEIGHT: 65px
+}
+.sub_tab_big LI A.n1 {
+	BACKGROUND-POSITION: 0px -64px
+}
+.sub_tab_big LI A.n2 {
+	BACKGROUND-POSITION: 100% 0px
+}
+.sub_tab_big LI.on A {
+	BACKGROUND-POSITION: 0px 0px; FONT-WEIGHT: bold
+}
+.sub_tab_big LI A:hover {
+	BACKGROUND-POSITION: 0px 0px; FONT-WEIGHT: bold
+}
+.sub_tab_big LI.on A.n2 {
+	BACKGROUND-POSITION: 100% -64px
+}
+.sub_tab_big LI A.n2:hover {
+	BACKGROUND-POSITION: 100% -64px
+}
+.sub_tab_big_view {
+	MARGIN-BOTTOM: 30px; BORDER-TOP: #151719 2px solid; BORDER-RIGHT: #151719 2px solid; BACKGROUND: url(../../images/exam/bg/bg_line3.gif); BORDER-BOTTOM: #151719 2px solid; TEXT-ALIGN: center; BORDER-LEFT: #151719 2px solid
+}
+.sub_tab_big_view .txt_cash {
+	FONT-SIZE: 15px; BACKGROUND: url(../../images/exam/bg/bg_cash.png) no-repeat left center; FONT-WEIGHT: bold; COLOR: #333; PADDING-BOTTOM: 15px; PADDING-TOP: 15px; PADDING-LEFT: 70px; MARGIN: 50px 0px 30px; DISPLAY: inline-block; PADDING-RIGHT: 0px
+}
+.sub_tab_big_view .txt_cash SPAN {
+	VERTICAL-ALIGN: middle; DISPLAY: inline-block
+}
+.sub_tab_big_view .txt_cash .price {
+	FONT-SIZE: 30px; MARGIN-TOP: -7px; COLOR: #23409e
+}
+.sub_tab_big_view .txt_coupon {
+	FONT-SIZE: 15px; BACKGROUND: url(../../images/exam/bg/bg_coupon.png) no-repeat left center; FONT-WEIGHT: bold; COLOR: #333; PADDING-BOTTOM: 15px; PADDING-TOP: 15px; PADDING-LEFT: 90px; MARGIN: 50px 0px 30px; DISPLAY: inline-block; PADDING-RIGHT: 0px
+}
+.sub_tab_big_view .txt_coupon SPAN {
+	VERTICAL-ALIGN: middle; DISPLAY: inline-block
+}
+.sub_tab_big_view .txt_coupon .num {
+	FONT-SIZE: 30px; MARGIN-TOP: -7px; COLOR: #23409e
+}
+.sub_tab_big_view .line {
+	BORDER-TOP: #ebebeb 1px solid; POSITION: relative; PADDING-BOTTOM: 20px; PADDING-TOP: 20px; PADDING-LEFT: 0px; MARGIN: 0px 48px; PADDING-RIGHT: 0px
+}
+.sub_tab_big_view .mbtn2 {
+	MARGIN-LEFT: 10px
+}
+.sub_tab_big_view .txt_l .mbtn2 {
+	RIGHT: 0px; POSITION: absolute; MARGIN-LEFT: 10px; TOP: 30px
+}
+.col3 LI {
+	HEIGHT: 64px; WIDTH: 280px; FLOAT: left
+}
+.col3 LI A {
+	FONT-SIZE: 18px; HEIGHT: 100%; BACKGROUND: url(../../images/exam/bg/bg_tab_big_col3.gif) no-repeat 0px 0px; COLOR: #fff; TEXT-ALIGN: center; DISPLAY: block; LETTER-SPACING: -1px; LINE-HEIGHT: 65px
+}
+.col3 LI A.n1 {
+	BACKGROUND-POSITION: 0px -64px
+}
+.col3 LI A.n2 {
+	BACKGROUND-POSITION: -280px 0px
+}
+.col3 LI A.n3 {
+	BACKGROUND-POSITION: 100% 0px
+}
+.col3 LI.on A {
+	BACKGROUND-POSITION: 0px 0px; FONT-WEIGHT: bold
+}
+.col3 LI A:hover {
+	BACKGROUND-POSITION: 0px 0px; FONT-WEIGHT: bold
+}
+.col3 LI.on A.n2 {
+	BACKGROUND-POSITION: -280px -64px
+}
+.col3 LI A.n2:hover {
+	BACKGROUND-POSITION: -280px -64px
+}
+.col3 LI.on A.n3 {
+	BACKGROUND-POSITION: 100% -128px
+}
+.col3 LI A.n3:hover {
+	BACKGROUND-POSITION: 100% -128px
+}
+.sub_tab_m {
+	OVERFLOW: hidden; MARGIN-TOP: 30px
+}
+.sub_tab_m LI {
+	HEIGHT: 40px; WIDTH: 50%; FLOAT: left
+}
+.sub_tab_m LI A {
+	FONT-SIZE: 14px; BORDER-TOP: #b6b9bf 1px solid; HEIGHT: 38px; BORDER-RIGHT: #b6b9bf 1px solid; BORDER-BOTTOM: #b6b9bf 1px solid; FONT-WEIGHT: bold; COLOR: #666; TEXT-ALIGN: center; BORDER-LEFT: 0px; DISPLAY: block; LETTER-SPACING: -1px; LINE-HEIGHT: 40px
+}
+.sub_tab_m LI:first-child A {
+	BORDER-RIGHT: 0px; BORDER-LEFT: #b6b9bf 1px solid
+}
+.sub_tab_m LI.on A {
+	BORDER-TOP: 0px; HEIGHT: 40px; BORDER-RIGHT: 0px; BACKGROUND: url(../../images/exam/bg/bg_tab_m_on.gif) no-repeat center top; BORDER-BOTTOM: 0px; COLOR: #fff; BORDER-LEFT: 0px
+}
+.sub_tab_m LI A:hover {
+	BORDER-TOP: 0px; HEIGHT: 40px; BORDER-RIGHT: 0px; BACKGROUND: url(../../images/exam/bg/bg_tab_m_on.gif) no-repeat center top; BORDER-BOTTOM: 0px; COLOR: #fff; BORDER-LEFT: 0px
+}
+.col5 LI {
+	WIDTH: 20%
+}
+.col5 LI:first-child A {
+	BORDER-RIGHT: #b6b9bf 1px solid
+}
+.sec_visual_download {
+	MARGIN-BOTTOM: 30px; HEIGHT: 893px; BACKGROUND: url(../../images/exam/cnt/bg_visual_download_2016.gif) no-repeat 0px 0px; POSITION: relative
+}
+.sec_visual_download DL {
+	HEIGHT: 210px; WIDTH: 607px; POSITION: absolute; TEXT-ALIGN: center; LEFT: 117px; TOP: 336px
+}
+.sec_visual_download DL DT {
+	FONT-SIZE: 20px; BACKGROUND: url(../../images/exam/bg/bg_line.gif) repeat-x 0px bottom; FONT-WEIGHT: bold; COLOR: #333; PADDING-BOTTOM: 16px; PADDING-TOP: 16px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.sec_visual_download DL DD {
+	POSITION: relative
+}
+.sec_visual_download DL DD .in {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 18px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.sec_visual_download DL DD P {
+	FONT-SIZE: 16px; COLOR: #666
+}
+.sec_visual_download DL DD P STRONG {
+	COLOR: #333
+}
+.sec_visual_download DL DD P EM {
+	FONT-SIZE: 16px; LETTER-SPACING: -1px
+}
+.sec_visual_download DL DD .before_price {
+	FONT-SIZE: 20px; TEXT-DECORATION: line-through; BACKGROUND: url(../../images/exam/bg/bg_arr.gif) no-repeat right 8px; COLOR: #666; DISPLAY: inline-block; PADDING-RIGHT: 17px; MARGIN-RIGHT: 3px
+}
+.sec_visual_download DL DD .now_price {
+	FONT-SIZE: 25px; COLOR: #23409d
+}
+.sec_visual_download DL DD .discount {
+	FONT-SIZE: 18px; HEIGHT: 60px; WIDTH: 55px; BACKGROUND: url(../../images/exam/cnt/bg_discount.gif) no-repeat 0px 0px; POSITION: absolute; FONT-WEIGHT: normal; COLOR: #fff; TEXT-ALIGN: center; PADDING-TOP: 15px; LEFT: 427px; TOP: 18px
+}
+.sec_visual_download DL DD .btn_area {
+	MARGIN-TOP: 15px
+}
+.sec_visual_download DL DD .btn_bck {
+	FONT-SIZE: 13px; BACKGROUND: #222
+}
+.sec_visual_download .mark {
+	HEIGHT: 60px; WIDTH: 60px; BACKGROUND: url(../../images/exam/bg/bg_tbox.png) no-repeat 0px 0px; RIGHT: 30px; POSITION: absolute; FONT-WEIGHT: bold; COLOR: #fff; TEXT-ALIGN: center; PADDING-TOP: 26px; LETTER-SPACING: -1px; LINE-HEIGHT: 14px; TOP: 0px
+}
+.sec_visual_download .info_box {
+	WIDTH: 750px; POSITION: absolute; MARGIN-LEFT: -375px; LEFT: 50%; TOP: 585px
+}
+.sec_visual_download .info_box UL {
+	MARGIN: 25px 30px 0px
+}
+.sec_visual_download .info_box LI {
+	FONT-SIZE: 14px; MARGIN-BOTTOM: 25px; BACKGROUND: url(../../images/exam/icon/ic_check.png) no-repeat 0px 6px; COLOR: #333; PADDING-LEFT: 15px; LETTER-SPACING: -1px; LINE-HEIGHT: 20px
+}
+.sec_visual_download .info_box LI P {
+	FONT-SIZE: 12px; COLOR: #666; PADDING-TOP: 5px; LINE-HEIGHT: 16px
+}
+.sec_visual_download .info_box LI P SPAN {
+	COLOR: #23409e
+}
+.zip {
+	HEIGHT: 1068px; BACKGROUND-IMAGE: url(../../images/exam/cnt/bg_visual_download2_2016.gif)
+}
+.zip DL {
+	TOP: 510px
+}
+.zip .info_box {
+	TOP: 760px
+}
+.info {
+	HEIGHT: 987px; BACKGROUND-IMAGE: url(../../images/exam/cnt/bg_visual_download3_2016.gif)
+}
+.final {
+	HEIGHT: 1160px; BACKGROUND-IMAGE: url(../../images/exam/cnt/bg_visual_download4.gif); POSITION: relative
+}
+.final .price {
+	HEIGHT: 158px; WIDTH: 640px; POSITION: absolute; MARGIN-LEFT: -320px; LEFT: 50%; BOTTOM: 55px
+}
+.final .price LI {
+	WIDTH: 317px; VERTICAL-ALIGN: top; POSITION: relative; ZOOM: 1; TEXT-ALIGN: center; DISPLAY: inline
+}
+.final .price LI .txt1 {
+	FONT-SIZE: 18px; FONT-WEIGHT: bold; COLOR: #666
+}
+.final .price LI .txt2 {
+	FONT-SIZE: 18px; COLOR: #000; PADDING-BOTTOM: 24px; PADDING-TOP: 20px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.final .price LI .txt3 {
+	FONT-SIZE: 25px; FONT-WEIGHT: bold; COLOR: #23409e; LETTER-SPACING: -1px; PADDING-RIGHT: 55px
+}
+.final .price LI .txt4 {
+	FONT-SIZE: 25px; MARGIN-TOP: -17px; FONT-WEIGHT: bold; COLOR: #23409e; LETTER-SPACING: -1px; LINE-HEIGHT: 28px; PADDING-RIGHT: 75px
+}
+.final .discount {
+	FONT-SIZE: 18px; HEIGHT: 60px; WIDTH: 55px; BACKGROUND: url(../../images/exam/cnt/bg_discount.gif) no-repeat 0px 0px; RIGHT: 77px; POSITION: absolute; FONT-WEIGHT: normal; COLOR: #fff; TEXT-ALIGN: center; PADDING-TOP: 15px; DISPLAY: block; BOTTOM: -34px
+}
+.final .discount2 {
+	FONT-SIZE: 13px; HEIGHT: 24px; WIDTH: 84px; BACKGROUND: url(../../images/exam/cnt/bg_discount2.gif) no-repeat 0px 0px; RIGHT: 63px; POSITION: absolute; FONT-WEIGHT: bold; COLOR: #fff; TEXT-ALIGN: center; PADDING-TOP: 2px; DISPLAY: block; BOTTOM: 25px
+}
+.final .discount2 + .discount2 {
+	BOTTOM: -3px
+}
+.yonhap {
+	HEIGHT: 603px; BACKGROUND-IMAGE: url(../../images/exam/cnt/bg_visual_yonhap_2016.gif)
+}
+.yonhap .info_box {
+	TOP: 365px
+}
+.similar {
+	HEIGHT: 528px; WIDTH: 840px; BACKGROUND: url(../../images/exam/cnt/bg_visual_similar2016.gif) no-repeat 0px 0px
+}
+.similar .info_box {
+	TOP: 328px
+}
+.similar .info_box LI A {
+	FONT-SIZE: 14px; TEXT-DECORATION: underline; FONT-WEIGHT: bold; COLOR: #333
+}
+.similar .info_box LI SPAN {
+	FONT-SIZE: 12px; MARGIN-TOP: 4px; COLOR: #23409e; DISPLAY: block
+}
+.download_app {
+	FONT-SIZE: 13px; COLOR: #333
+}
+.download_app LABEL {
+	COLOR: #333; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; PADDING-LEFT: 0px; DISPLAY: block; PADDING-RIGHT: 0px
+}
+.download_app EM {
+	TEXT-DECORATION: line-through; COLOR: #666
+}
+.download_app SPAN.price {
+	COLOR: #2743a0
+}
+.download_app SPAN.price STRONG {
+	FONT-SIZE: 16px; COLOR: #2743a0
+}
+.download_select {
+	RIGHT: 0px; MARGIN-TOP: -35px; POSITION: absolute
+}
+.pop_layer {
+	BORDER-TOP: #000 3px solid; BORDER-RIGHT: #000 3px solid; BORDER-BOTTOM: #000 3px solid; POSITION: absolute; BORDER-LEFT: #000 3px solid; Z-INDEX: 3000; BACKGROUND-COLOR: #fff
+}
+.pop_layer .inner {
+	POSITION: relative; PADDING-BOTTOM: 30px; PADDING-TOP: 25px; PADDING-LEFT: 25px; PADDING-RIGHT: 25px
+}
+.pop_layer .inner H3 {
+	COLOR: #333; PADDING-BOTTOM: 20px
+}
+.pop_layer .inner H3 SPAN {
+	FONT-SIZE: 22px !important; FONT-WEIGHT: bold; LINE-HEIGHT: 26px
+}
+.pop_layer .inner H3.bline {
+	BORDER-BOTTOM: #222 1px solid
+}
+.pop_layer .inner .btn_close {
+	RIGHT: 23px; POSITION: absolute; TOP: 25px
+}
+.pop_layer .tbox {
+	font-color: #333
+}
+.pop_layer .tbox .inbox {
+	PADDING-BOTTOM: 15px; PADDING-TOP: 15px; PADDING-LEFT: 35px; PADDING-RIGHT: 35px
+}
+.pop_layer DL.qna DT {
+	FONT-SIZE: 16px; FONT-WEIGHT: bold; COLOR: #23409e; PADDING-BOTTOM: 15px; PADDING-TOP: 15px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.pop_layer DL.qna DD {
+	FONT-SIZE: 13px; BORDER-TOP: #dbdbdb 1px solid; BACKGROUND: #f8f8f8; BORDER-BOTTOM: #dbdbdb 1px solid; COLOR: #666; PADDING-BOTTOM: 15px; PADDING-TOP: 15px; PADDING-LEFT: 0px; LINE-HEIGHT: 20px; PADDING-RIGHT: 0px
+}
+.pop_layer DL.qna DD .desc_box {
+	BACKGROUND: #e9e9e9; PADDING-BOTTOM: 15px; PADDING-TOP: 5px; PADDING-LEFT: 10px; MARGIN: 10px 5px -10px; LETTER-SPACING: 0px; PADDING-RIGHT: 10px
+}
+.pop_layer .tbl_data {
+	MARGIN: 10px 10px 0px
+}
+.pop_layer .tbl_data THEAD TH {
+	BACKGROUND: #ededed
+}
+.pop_layer .tbl_data TBODY TD {
+	BACKGROUND: #fff
+}
+.pop_msg {
+	FONT-SIZE: 18px; BORDER-TOP: #262626 1px solid; COLOR: #333; PADDING-BOTTOM: 10px; TEXT-ALIGN: center; PADDING-TOP: 30px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.pop_layer#l_login .inner H3 {
+	MARGIN-BOTTOM: 25px; BORDER-BOTTOM: #222 1px solid
+}
+#l_login .box_login_input {
+	POSITION: relative
+}
+#l_login INPUT.text {
+	FONT-SIZE: 16px; MARGIN-BOTTOM: 5px; BORDER-TOP: #ddd 1px solid; HEIGHT: 27px; BORDER-RIGHT: #ddd 1px solid; WIDTH: 305px; BORDER-BOTTOM: #ddd 1px solid; COLOR: #333; PADDING-BOTTOM: 4px; PADDING-TOP: 4px; PADDING-LEFT: 5px; BORDER-LEFT: #ddd 1px solid; PADDING-RIGHT: 5px
+}
+#l_login .box_login_check {
+	HEIGHT: 45px; BORDER-BOTTOM: #dbdbdb 1px solid; COLOR: #666; PADDING-TOP: 5px
+}
+#l_login INPUT#login_chk {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: -2px 0px 0px; PADDING-RIGHT: 0px
+}
+#l_login .login_link {
+	FLOAT: right
+}
+#l_login .btn_login {
+	HEIGHT: 20px; WIDTH: 90px; RIGHT: 0px; POSITION: absolute; COLOR: #fff; PADDING-BOTTOM: 30px; TEXT-ALIGN: center; PADDING-TOP: 30px; PADDING-LEFT: 0px; DISPLAY: block; TOP: 0px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: #23409e
+}
+#l_login .box_login_regist {
+	BACKGROUND: url(../../images/exam/bg/bg_line.gif) 0px 0px; MARGIN-TOP: 25px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px
+}
+#l_login .box_login_regist .in {
+	PADDING-BOTTOM: 12px; PADDING-TOP: 12px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; BACKGROUND-COLOR: #fff
+}
+#l_login .txt_regist {
+	FONT-SIZE: 14px; HEIGHT: 24px; BACKGROUND: url(../../images/exam/icon/ic_member.gif) no-repeat 0px 0px; ZOOM: 1; FONT-WEIGHT: bold; PADDING-LEFT: 30px; DISPLAY: inline; LINE-HEIGHT: 21px
+}
+.page#l_login {
+	BORDER-TOP: #222 1px solid; BORDER-BOTTOM: #dbdbdb 1px solid; PADDING-BOTTOM: 48px; PADDING-TOP: 48px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.page#l_login .box_login_input {
+	WIDTH: 415px; BACKGROUND: url(../../images/exam/cnt/bg_login.gif) no-repeat 0px 0px; PADDING-LEFT: 123px; MARGIN: 0px auto
+}
+.page#l_login .box_login_check {
+	BORDER-BOTTOM: medium none
+}
+.page#l_login .box_login_regist {
+	WIDTH: 534px; MARGIN: 20px auto 0px
+}
+.pop_layer .col2 LI {
+	WIDTH: 245px
+}
+.payment_step {
+	MARGIN-TOP: 25px
+}
+.total_box {
+	FONT-SIZE: 16px; MARGIN-BOTTOM: 20px; BACKGROUND: url(../../images/exam/bg/bg_line2.gif) 0px 0px; BORDER-BOTTOM: #dedede 1px dotted; COLOR: #333; PADDING-BOTTOM: 13px; TEXT-ALIGN: center; PADDING-TOP: 13px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.total_box STRONG {
+	FONT-SIZE: 27px; VERTICAL-ALIGN: sub; COLOR: #23409e
+}
+.sec_pointtotal {
+	HEIGHT: 100px; WIDTH: 100%; BACKGROUND: url(../../images/exam/bg/bg_pointtotal.gif) no-repeat 0px 0px; MARGIN-TOP: 30px; POSITION: relative
+}
+.sec_pointtotal DIV {
+	FONT-SIZE: 15px; POSITION: absolute; COLOR: #333; LINE-HEIGHT: 1.2; TOP: 27px
+}
+.sec_pointtotal DIV P > STRONG {
+	FONT-SIZE: 30px; LETTER-SPACING: -1px
+}
+.sec_pointtotal DIV P {
+	FONT-SIZE: 22px
+}
+.sec_pointtotal DIV P .point {
+	COLOR: #444
+}
+.sec_pointtotal .point_num1 {
+	LEFT: 80px
+}
+.sec_pointtotal .point_num2 {
+	LEFT: 367px
+}
+.sec_pointtotal .point_num3 {
+	LEFT: 646px
+}
+.memberjoin_area {
+	
+}
+.memberjoin_area .col3 LI {
+	WIDTH: 295px
+}
+.select_cerificate {
+	OVERFLOW: hidden
+}
+.select_cerificate LI {
+	WIDTH: 290px; FLOAT: left; MARGIN-LEFT: 9px
+}
+.cols2 LI {
+	WIDTH: 440px
+}
+.select_cerificate LI:first-child {
+	MARGIN-LEFT: 0px
+}
+.select_cerificate A {
+	BORDER-TOP: #999 2px solid; HEIGHT: 100%; BORDER-RIGHT: #999 2px solid; BORDER-BOTTOM: #999 2px solid; BORDER-LEFT: #999 2px solid; DISPLAY: block
+}
+.select_cerificate A P {
+	FONT-SIZE: 13px; MARGIN-TOP: 10px; FONT-WEIGHT: normal; COLOR: #333
+}
+.select_cerificate A DIV {
+	FONT-SIZE: 20px; HEIGHT: 190px; FONT-WEIGHT: bold; COLOR: #888; TEXT-ALIGN: center; PADDING-TOP: 35px
+}
+.select_cerificate A DIV SPAN {
+	MARGIN-BOTTOM: 20px; HEIGHT: 64px; BACKGROUND: url(../../images/exam/bg/bg_certify_mobile_off.png) no-repeat center 50%; DISPLAY: block
+}
+.select_cerificate A:hover {
+	BORDER-TOP-COLOR: #03c; BORDER-LEFT-COLOR: #03c; BORDER-BOTTOM-COLOR: #03c; BORDER-RIGHT-COLOR: #03c
+}
+.select_cerificate A:hover DIV {
+	BACKGROUND: url(../../images/exam/bg/bg_line3.gif) 0px 0px; COLOR: #23409e
+}
+.select_cerificate A:hover DIV SPAN {
+	BACKGROUND-IMAGE: url(../../images/exam/bg/bg_certify_mobile_on.png)
+}
+.select_cerificate .c_email A DIV SPAN {
+	BACKGROUND-IMAGE: url(../../images/exam/bg/bg_certify_email_off.png)
+}
+.select_cerificate .c_email A:hover DIV SPAN {
+	BACKGROUND-IMAGE: url(../../images/exam/bg/bg_certify_email_on.png)
+}
+.select_cerificate .c_ipin A DIV SPAN {
+	BACKGROUND-IMAGE: url(../../images/exam/bg/bg_certify_ipin_off.png)
+}
+.select_cerificate .c_ipin A:hover DIV SPAN {
+	BACKGROUND-IMAGE: url(../../images/exam/bg/bg_certify_ipin_on.png)
+}
+.select_id {
+	FONT-SIZE: 16px; MARGIN-TOP: 15px; TEXT-ALIGN: left; MARGIN-LEFT: 305px
+}
+.select_id LI {
+	MARGIN-BOTTOM: 5px
+}
+.select_id LABEL {
+	MIN-WIDTH: 110px; DISPLAY: inline-block
+}
+.select_pw {
+	WIDTH: 250px; MARGIN: 0px auto
+}
+.memberjoin_area .scroll {
+	BORDER-TOP: #d9d9d9 1px solid; BORDER-RIGHT: #d9d9d9 1px solid; BORDER-BOTTOM: #d9d9d9 1px solid; PADDING-BOTTOM: 20px; PADDING-TOP: 20px; PADDING-LEFT: 20px; MIN-HEIGHT: 250px; BORDER-LEFT: #d9d9d9 1px solid; PADDING-RIGHT: 20px
+}
+.select_type_join {
+	OVERFLOW: hidden
+}
+.select_type_join LI {
+	WIDTH: 290px; FLOAT: left; MARGIN-LEFT: 9px
+}
+.select_type_join LI:first-child {
+	MARGIN-LEFT: 0px
+}
+.select_type_join A {
+	BORDER-TOP: #999 2px solid; HEIGHT: 100%; BORDER-RIGHT: #999 2px solid; BORDER-BOTTOM: #999 2px solid; BORDER-LEFT: #999 2px solid; DISPLAY: block
+}
+.select_type_join A .mainmsg {
+	FONT-SIZE: 16px; WIDTH: 250px; BORDER-BOTTOM: #e3e5e7 1px solid; COLOR: #333; PADDING-BOTTOM: 28px; MARGIN: 0px auto 25px; LETTER-SPACING: -2px
+}
+.select_type_join A .in {
+	FONT-SIZE: 13px; PADDING-BOTTOM: 30px; TEXT-ALIGN: center; PADDING-TOP: 38px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.select_type_join A .box_point {
+	WIDTH: 240px; BACKGROUND: #ededed; PADDING-BOTTOM: 18px; PADDING-TOP: 18px; PADDING-LEFT: 0px; MARGIN: 20px auto 0px; LETTER-SPACING: -1px; LINE-HEIGHT: 20px; PADDING-RIGHT: 0px
+}
+.select_type_join LI:first-child A .box_point {
+	PADDING-BOTTOM: 9px; PADDING-TOP: 6px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.select_type_join A:hover {
+	BORDER-TOP-COLOR: #03c; BORDER-LEFT-COLOR: #03c; BORDER-BOTTOM-COLOR: #03c; BORDER-RIGHT-COLOR: #03c
+}
+.select_type_join A:hover .in {
+	BACKGROUND: url(../../images/exam/bg/bg_line3.gif) 0px 0px
+}
+.select_type_join A:hover .btn_white {
+	BORDER-TOP-COLOR: #23409e; BORDER-LEFT-COLOR: #23409e; COLOR: #fff; BORDER-BOTTOM-COLOR: #23409e; BORDER-RIGHT-COLOR: #23409e; BACKGROUND-COLOR: #23409e
+}
+.layer_select_type {
+	HEIGHT: 325px; WIDTH: 520px; BACKGROUND: #fff; POSITION: absolute; PADDING-BOTTOM: 30px; TEXT-ALIGN: center; PADDING-TOP: 35px; PADDING-LEFT: 30px; PADDING-RIGHT: 30px
+}
+.layer_select_type .tit {
+	FONT-SIZE: 30px; MARGIN-BOTTOM: 15px; BACKGROUND: url(../../images/exam/bg/bg_bar2.gif) no-repeat center bottom; COLOR: #000; PADDING-BOTTOM: 22px; LINE-HEIGHT: 35px
+}
+.layer_select_type .msg {
+	FONT-SIZE: 14px; MARGIN-BOTTOM: 20px; COLOR: #666
+}
+.txt_agree {
+	BORDER-BOTTOM: #dbdbdb 1px solid; PADDING-BOTTOM: 17px !important; PADDING-TOP: 17px !important; PADDING-LEFT: 10px !important; PADDING-RIGHT: 10px !important
+}
+.rain_box {
+	FONT-SIZE: 14px; MARGIN-BOTTOM: 20px; BACKGROUND: url(../../images/exam/bg/bg_line2.gif) 0px 0px; BORDER-BOTTOM: #dedede 1px dotted; POSITION: relative; PADDING-BOTTOM: 12px; PADDING-TOP: 12px; PADDING-LEFT: 15px; PADDING-RIGHT: 0px
+}
+.rain_box .select {
+	PADDING-LEFT: 10px
+}
+.rain_box .barbtn {
+	OVERFLOW: hidden; VERTICAL-ALIGN: top; MARGIN-TOP: 2px; MARGIN-LEFT: 14px; DISPLAY: inline-block
+}
+.rain_box .barbtn LI {
+	FLOAT: left
+}
+.rain_box .barbtn LI A {
+	FONT-SIZE: 13px; BACKGROUND: url(../../images/exam/bg/bg_bar.gif) no-repeat 0px 4px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 15px; DISPLAY: block; PADDING-RIGHT: 15px
+}
+.rain_box .barbtn LI.on A {
+	FONT-WEIGHT: bold; COLOR: #222
+}
+.rain_box .barbtn LI:first-child A {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.rain_box .bull_st2 {
+	RIGHT: 20px; POSITION: absolute; TOP: 16px
+}
+.go1_vposition01 {
+	PADDING-BOTTOM: 16px
+}
+.go1_graph_m01 {
+	WIDTH: 29px; BACKGROUND: url(../../images/exam/cnt/bg_stargraph.gif) 0px 0px; MARGIN: 0px auto
+}
+.go1_graph_m01 .s_position01 {
+	HEIGHT: 13px; WIDTH: 15px; POSITION: relative; TOP: 20px
+}
+.go1_vposition02 {
+	PADDING-BOTTOM: 20px
+}
+.go1_graph_m02 {
+	WIDTH: 29px; BACKGROUND: url(../../images/exam/cnt/bg_stargraph.gif) 0px 0px; MARGIN: 0px auto
+}
+.go1_graph_m02 .s_position02 {
+	HEIGHT: 13px; WIDTH: 15px; POSITION: relative; TOP: 40px
+}
+.go1_vposition03 {
+	PADDING-BOTTOM: 20px
+}
+.go1_graph_m03 {
+	WIDTH: 29px; BACKGROUND: url(../../images/exam/cnt/bg_stargraph.gif) 0px 0px; MARGIN: 0px auto
+}
+.go1_graph_m03 .s_position03 {
+	HEIGHT: 13px; WIDTH: 15px; POSITION: relative; TOP: 20px
+}
+.go1_vposition04 {
+	PADDING-BOTTOM: 13px
+}
+.go1_graph_m04 {
+	WIDTH: 29px; BACKGROUND: url(../../images/exam/cnt/bg_stargraph.gif) 0px 0px; MARGIN: 0px auto
+}
+.go1_graph_m04 .s_position04 {
+	HEIGHT: 13px; WIDTH: 15px; POSITION: relative; TOP: 10px
+}
+.go1_graph_m05 {
+	WIDTH: 29px; BACKGROUND: url(../../images/exam/cnt/bg_stargraph.gif) 0px 0px; MARGIN: 0px auto
+}
+.go1_vposition05 {
+	PADDING-BOTTOM: 5px
+}
+.go1_graph_m05 .s_position05 {
+	HEIGHT: 13px; WIDTH: 15px; POSITION: relative; TOP: 20px
+}
+.go1_vposition06 {
+	PADDING-BOTTOM: 0px
+}
+.go1_graph_m06 {
+	WIDTH: 29px; BACKGROUND: url(../../images/exam/cnt/bg_stargraph.gif) 0px 0px; MARGIN: 0px auto
+}
+.go1_graph_m06 .s_position06 {
+	HEIGHT: 13px; WIDTH: 15px; POSITION: relative; TOP: 20px
+}
+.go1_graph_m07 {
+	WIDTH: 29px; BACKGROUND: url(../../images/exam/cnt/bg_stargraph.gif) 0px 0px; MARGIN: 0px auto
+}
+.go1_graph_m07 .s_position07 {
+	HEIGHT: 13px; WIDTH: 15px; POSITION: relative; TOP: 20px
+}
+.go2_vposition01 {
+	PADDING-BOTTOM: 16px
+}
+.go2_graph_m01 {
+	WIDTH: 29px; BACKGROUND: url(../../images/exam/cnt/bg_stargraph.gif) 0px 0px; MARGIN: 0px auto
+}
+.go2_graph_m01 .s_position01 {
+	HEIGHT: 13px; WIDTH: 15px; POSITION: relative; TOP: 20px
+}
+.go2_vposition02 {
+	PADDING-BOTTOM: 20px
+}
+.go2_graph_m02 {
+	WIDTH: 29px; BACKGROUND: url(../../images/exam/cnt/bg_stargraph.gif) 0px 0px; MARGIN: 0px auto
+}
+.go2_graph_m02 .s_position02 {
+	HEIGHT: 13px; WIDTH: 15px; POSITION: relative; TOP: 40px
+}
+.go2_vposition03 {
+	PADDING-BOTTOM: 20px
+}
+.go2_graph_m03 {
+	WIDTH: 29px; BACKGROUND: url(../../images/exam/cnt/bg_stargraph.gif) 0px 0px; MARGIN: 0px auto
+}
+.go2_graph_m03 .s_position03 {
+	HEIGHT: 13px; WIDTH: 15px; POSITION: relative; TOP: 20px
+}
+.go2_vposition04 {
+	PADDING-BOTTOM: 13px
+}
+.go2_graph_m04 {
+	WIDTH: 29px; BACKGROUND: url(../../images/exam/cnt/bg_stargraph.gif) 0px 0px; MARGIN: 0px auto
+}
+.go2_graph_m04 .s_position04 {
+	HEIGHT: 13px; WIDTH: 15px; POSITION: relative; TOP: 10px
+}
+.go2_graph_m05 {
+	WIDTH: 29px; BACKGROUND: url(../../images/exam/cnt/bg_stargraph.gif) 0px 0px; MARGIN: 0px auto
+}
+.go2_vposition05 {
+	PADDING-BOTTOM: 5px
+}
+.go2_graph_m05 .s_position05 {
+	HEIGHT: 13px; WIDTH: 15px; POSITION: relative; TOP: 20px
+}
+.go2_vposition06 {
+	PADDING-BOTTOM: 0px
+}
+.go2_graph_m06 {
+	WIDTH: 29px; BACKGROUND: url(../../images/exam/cnt/bg_stargraph.gif) 0px 0px; MARGIN: 0px auto
+}
+.go2_graph_m06 .s_position06 {
+	HEIGHT: 13px; WIDTH: 15px; POSITION: relative; TOP: 20px
+}
+.go3_vposition01 {
+	PADDING-BOTTOM: 16px
+}
+.go3_graph_m01 {
+	WIDTH: 29px; BACKGROUND: url(../../images/exam/cnt/bg_stargraph.gif) 0px 0px; MARGIN: 0px auto
+}
+.go3_graph_m01 .s_position01 {
+	HEIGHT: 13px; WIDTH: 15px; POSITION: relative; TOP: 20px
+}
+.go3_vposition02 {
+	PADDING-BOTTOM: 20px
+}
+.go3_graph_m02 {
+	WIDTH: 29px; BACKGROUND: url(../../images/exam/cnt/bg_stargraph.gif) 0px 0px; MARGIN: 0px auto
+}
+.go3_graph_m02 .s_position02 {
+	HEIGHT: 13px; WIDTH: 15px; POSITION: relative; TOP: 40px
+}
+.go3_vposition03 {
+	PADDING-BOTTOM: 20px
+}
+.go3_graph_m03 {
+	WIDTH: 29px; BACKGROUND: url(../../images/exam/cnt/bg_stargraph.gif) 0px 0px; MARGIN: 0px auto
+}
+.go3_graph_m03 .s_position03 {
+	HEIGHT: 13px; WIDTH: 15px; POSITION: relative; TOP: 20px
+}
+.go3_vposition04 {
+	PADDING-BOTTOM: 13px
+}
+.go3_graph_m04 {
+	WIDTH: 29px; BACKGROUND: url(../../images/exam/cnt/bg_stargraph.gif) 0px 0px; MARGIN: 0px auto
+}
+.go3_graph_m04 .s_position04 {
+	HEIGHT: 13px; WIDTH: 15px; POSITION: relative; TOP: 10px
+}
+.go3_graph_m05 {
+	WIDTH: 29px; BACKGROUND: url(../../images/exam/cnt/bg_stargraph.gif) 0px 0px; MARGIN: 0px auto
+}
+.go3_vposition05 {
+	PADDING-BOTTOM: 5px
+}
+.go3_graph_m05 .s_position05 {
+	HEIGHT: 13px; WIDTH: 15px; POSITION: relative; TOP: 20px
+}
+.go3_vposition06 {
+	PADDING-BOTTOM: 0px
+}
+.go3_graph_m06 {
+	WIDTH: 29px; BACKGROUND: url(../../images/exam/cnt/bg_stargraph.gif) 0px 0px; MARGIN: 0px auto
+}
+.go3_graph_m06 .s_position06 {
+	HEIGHT: 13px; WIDTH: 15px; POSITION: relative; TOP: 20px
+}
+.multiboxR_wrap {
+	MARGIN-TOP: -15px; POSITION: absolute; Z-INDEX: 10; DISPLAY: block
+}
+.multiboxR_wrap {
+	
+}
+.multibox_left {
+	WIDTH: 98px; FLOAT: left; DISPLAY: block
+}
+.multibox_left {
+	
+}
+.left_tx {
+	MARGIN-LEFT: -20px; DISPLAY: none
+}
+.right_tx {
+	RIGHT: 0px; DISPLAY: none !important; MARGIN-RIGHT: -12px
+}
+.multiboxR_go .grap01_p {
+	HEIGHT: 30px; BACKGROUND-COLOR: #ccbfb1
+}
+.multiboxR_go .grap01_p EM {
+	POSITION: absolute
+}
+.multibox_left .multiboxR_go .grap01_p {
+	FLOAT: right
+}
+.multibox_right .multiboxR_go .grap01_p {
+	FLOAT: left
+}
+.box_info {
+	OVERFLOW: hidden
+}
+.box_info DL {
+	BORDER-TOP: #dbdbdb 1px solid; BORDER-RIGHT: #dbdbdb 1px solid; WIDTH: 415px; BORDER-BOTTOM: #dbdbdb 1px solid; FLOAT: left; BORDER-LEFT: #dbdbdb 1px solid
+}
+.box_info DL:first-child {
+	MARGIN-RIGHT: 5px
+}
+.box_info DL DT {
+	FONT-SIZE: 15px; COLOR: #333; PADDING-BOTTOM: 12px; TEXT-ALIGN: center; PADDING-TOP: 13px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: #f7f7f7
+}
+.box_info DL DD {
+	PADDING-BOTTOM: 30px; PADDING-TOP: 24px; PADDING-LEFT: 33px; LETTER-SPACING: -1px; PADDING-RIGHT: 23px
+}
+.box_info DL DD .school {
+	HEIGHT: 51px; BACKGROUND: url(../../images/exam/bg/bg_box_school.gif) no-repeat 0px 0px; PADDING-TOP: 7px; PADDING-LEFT: 80px
+}
+.box_info DL DD .mail {
+	HEIGHT: 51px; BACKGROUND: url(../../images/exam/bg/bg_box_school.gif) no-repeat 0px 0px; PADDING-TOP: 7px; PADDING-LEFT: 80px
+}
+.box_info DL DD .mail {
+	BACKGROUND-IMAGE: url(../../images/exam/bg/bg_box_mail.gif)
+}
+.col3 DL {
+	WIDTH: 274px
+}
+.incorrect_note {
+	BORDER-TOP: #222 1px solid
+}
+.incorrect_note TABLE {
+	MARGIN-TOP: 40px; BORDER-BOTTOM: #ddd 1px solid; PADDING-BOTTOM: 38px
+}
+.incorrect_note TABLE TD {
+	VERTICAL-ALIGN: top; PADDING-LEFT: 15px
+}
+.incorrect_note TABLE TD:first-child {
+	BORDER-RIGHT: #ddd 1px dotted; PADDING-LEFT: 5px; PADDING-RIGHT: 15px
+}
+.incorrect_note TABLE .q_area {
+	PADDING-BOTTOM: 25px
+}
+.incorrect_note .m_area DT {
+	FONT-SIZE: 16px; OVERFLOW: hidden; FONT-WEIGHT: bold; COLOR: #23409e; PADDING-BOTTOM: 10px; PADDING-TOP: 20px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.incorrect_note .m_area TEXTAREA {
+	HEIGHT: 90px; WIDTH: 365px
+}
+.incorrect_note .qlist {
+	OVERFLOW: hidden; MARGIN-TOP: 20px
+}
+.incorrect_note .qlist LI {
+	WIDTH: 370px; VERTICAL-ALIGN: top; ZOOM: 1; PADDING-BOTTOM: 20px; PADDING-TOP: 0px; PADDING-LEFT: 10px; DISPLAY: inline; PADDING-RIGHT: 10px; MARGIN-RIGHT: -5px
+}
+.incorrect_note .qlist LI .q_area {
+	BORDER-TOP: #ddd 1px solid; PADDING-BOTTOM: 25px; PADDING-TOP: 25px; PADDING-LEFT: 0px; PADDING-RIGHT: 10px
+}
+UNKNOWN {
+	BORDER-RIGHT: #ddd 1px dotted
+}
+.sec_coupon {
+	BACKGROUND: url(../../images/exam/cnt/bg_coupon02.jpg) no-repeat 0px 0px; PADDING-BOTTOM: 50px
+}
+.sec_coupon .text {
+	FONT-SIZE: 20px; WIDTH: 72px; FONT-WEIGHT: bold; COLOR: #333; PADDING-BOTTOM: 6px; TEXT-ALIGN: center; PADDING-TOP: 6px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px
+}
+.sec_coupon .bot {
+	WIDTH: 680px; BACKGROUND: #fff; PADDING-BOTTOM: 40px; PADDING-TOP: 40px; PADDING-LEFT: 30px; MARGIN: 0px auto; PADDING-RIGHT: 30px
+}
+.sec_coupon .bot .in {
+	PADDING-BOTTOM: 34px; TEXT-ALIGN: center
+}
+.sec_coupon .bot .tbox {
+	MARGIN-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 2px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.sec_coupon .bot .tbox .inbox {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 30px; PADDING-LEFT: 32px; PADDING-RIGHT: 15px
+}
+.sec_coupon .bot .tbox .inbox DD {
+	FONT-SIZE: 13px; WIDTH: 400px; LINE-HEIGHT: 19px
+}
+:unknown .multiboxR_wrap {
+	MARGIN-TOP: -14px; POSITION: absolute; Z-INDEX: 10; DISPLAY: block
+}
+:unknown .multiboxR_wrap .multibox_left {
+	WIDTH: 98px; FLOAT: left; DISPLAY: block
+}
+:unknown .multiboxR_wrap .multibox_right {
+	WIDTH: 97px; FLOAT: right; DISPLAY: block
+}
+:unknown .right_tx {
+	FLOAT: right; DISPLAY: block; MARGIN-RIGHT: -14px
+}
+:unknown .multiboxR_go .grap01_p EM {
+	POSITION: relative
+}
+.tit_guide {
+	FONT-SIZE: 20px; MARGIN-BOTTOM: 20px; MARGIN-TOP: 40px; COLOR: #000; PADDING-LEFT: 7px; BORDER-LEFT: #3753a5 5px solid; LINE-HEIGHT: 20px
+}
+.dataList-update {
+	FONT-SIZE: 12px; MARGIN-TOP: -22px; FONT-WEIGHT: bold; TEXT-ALIGN: right
+}
+.dataList_wrap {
+	OVERFLOW: hidden; PADDING-BOTTOM: 100px; MARGIN-RIGHT: -30px
+}
+.dataList_wrap .dbox {
+	WIDTH: 405px; ZOOM: 1; DISPLAY: inline; MARGIN-RIGHT: 27px
+}
+.dataList_wrap .dbox THEAD TH {
+	PADDING-BOTTOM: 13px; PADDING-TOP: 13px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.sec_visual_data {
+	OVERFLOW: hidden; MARGIN-BOTTOM: 30px; HEIGHT: 940px; BACKGROUND: url(../../images/exam/cnt/bg_visual_data02.gif) no-repeat 0px 0px; POSITION: relative
+}
+.sec_visual_data UL {
+	WIDTH: 695px; MARGIN: 403px auto 0px
+}
+.sec_visual_data LI {
+	HEIGHT: 121px; BACKGROUND: url(../../images/exam/bg/bg_dot_line2.gif) repeat-x left bottom
+}
+.sec_visual_data LI A {
+	HEIGHT: 100%; POSITION: relative; COLOR: #666; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 109px; DISPLAY: block; PADDING-RIGHT: 70px
+}
+.sec_visual_data LI .icon {
+	HEIGHT: 119px; WIDTH: 100px; POSITION: absolute; LEFT: 0px; TOP: 0px
+}
+.sec_visual_data LI.d1 .icon {
+	BACKGROUND: url(../../images/exam/bg/bg_data_icon1.gif) no-repeat
+}
+.sec_visual_data LI.d2 .icon {
+	BACKGROUND: url(../../images/exam/bg/bg_data_icon2.gif) no-repeat
+}
+.sec_visual_data LI.d3 .icon {
+	BACKGROUND: url(../../images/exam/bg/bg_data_icon3.gif) no-repeat
+}
+.sec_visual_data LI.d4 .icon {
+	BACKGROUND: url(../../images/exam/bg/bg_data_icon4.gif) no-repeat
+}
+.sec_visual_data LI .pointer {
+	HEIGHT: 55px; WIDTH: 30px; BACKGROUND: url(../../images/exam/bg/bg_r_pointer.gif) no-repeat; RIGHT: 32px; POSITION: absolute; TOP: 32px
+}
+.sec_visual_data LI A:hover .txt {
+	TEXT-DECORATION: underline
+}
+.sec_visual_data LI A:hover .icon {
+	BACKGROUND-POSITION: -100px 0px
+}
+.sec_visual_data LI A:hover .pointer {
+	BACKGROUND-POSITION: -30px 0px
+}
+.sec_visual_data LI STRONG {
+	FONT-SIZE: 16px; FONT-WEIGHT: bold; COLOR: #333; PADDING-BOTTOM: 7px; PADDING-TOP: 29px; PADDING-LEFT: 0px; DISPLAY: block; PADDING-RIGHT: 0px
+}
+.lecture-wrap {
+	HEIGHT: 980px; WIDTH: 840px; POSITION: relative
+}
+.lecture-wrap .movie-play-wrap {
+	HEIGHT: 350px; WIDTH: 650px; BACKGROUND: #000; POSITION: absolute; COLOR: #fff; LEFT: 95px; TOP: 520px
+}
+.lecture-wrap .txt1 {
+	POSITION: absolute
+}
+.lecture-wrap .txt2 {
+	POSITION: absolute
+}
+.lecture-wrap .date {
+	FONT-SIZE: 105px; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 305px; RIGHT: 125px; POSITION: absolute; COLOR: #222; TEXT-ALIGN: center; LETTER-SPACING: -8px; TOP: 178px
+}
+.lecture-wrap .left {
+	RIGHT: auto; LEFT: 121px
+}
+.lecture-wrap .movie-thum {
+	HEIGHT: 350px; WIDTH: 650px; BACKGROUND: url(about:blank); POSITION: absolute; LEFT: 95px; TOP: 520px
+}
+.lecture-wrap .movie-thum A {
+	HEIGHT: 350px; DISPLAY: block
+}
+.lecture-wrap .movie-thum .txt2 {
+	HEIGHT: 30px; WIDTH: 100%; LEFT: 0px; TOP: 135px
+}
+.lecture-wrap .num {
+	FONT-SIZE: 70px; WIDTH: 300px; POSITION: absolute; COLOR: #222; TEXT-ALIGN: center; LEFT: 95px; LETTER-SPACING: -9px; TOP: 181px
+}
+.lecture-wrap .num SPAN {
+	VERTICAL-ALIGN: middle; DISPLAY: inline-block
+}
+.lecture-wrap .num EM {
+	FONT-SIZE: 110px; FONT-FAMILY: Arial, Helvetica, sans-serif; VERTICAL-ALIGN: middle; DISPLAY: inline-block
+}
+.lecture-wrap .right {
+	LEFT: 451px
+}
+.teacher1 .txt1 {
+	HEIGHT: 77px; WIDTH: 85px; RIGHT: 0px; TOP: 84px
+}
+.teacher1-A .txt1 {
+	HEIGHT: 77px; WIDTH: 85px; RIGHT: 0px; TOP: 84px
+}
+.teacher1-B .txt1 {
+	HEIGHT: 77px; WIDTH: 85px; RIGHT: 0px; TOP: 84px
+}
+.teacher3 .txt1 {
+	HEIGHT: 77px; WIDTH: 85px; RIGHT: 0px; TOP: 84px
+}
+.teacher3-A .txt1 {
+	HEIGHT: 77px; WIDTH: 85px; RIGHT: 0px; TOP: 84px
+}
+.teacher4-A .txt1 {
+	HEIGHT: 77px; WIDTH: 85px; RIGHT: 0px; TOP: 84px
+}
+.teacher4-B .txt1 {
+	HEIGHT: 77px; WIDTH: 85px; RIGHT: 0px; TOP: 84px
+}
+.teacher6 .txt1 {
+	HEIGHT: 77px; WIDTH: 85px; RIGHT: 0px; TOP: 84px
+}
+.teacher2 .txt1 {
+	HEIGHT: 77px; WIDTH: 85px; LEFT: 0px; TOP: 84px
+}
+.teacher2-A .txt1 {
+	HEIGHT: 77px; WIDTH: 85px; LEFT: 0px; TOP: 84px
+}
+.teacher2-B .txt1 {
+	HEIGHT: 77px; WIDTH: 85px; LEFT: 0px; TOP: 84px
+}
+.teacher5-A .txt1 {
+	HEIGHT: 77px; WIDTH: 85px; LEFT: 0px; TOP: 84px
+}
+.teacher5-B .txt1 {
+	HEIGHT: 77px; WIDTH: 85px; LEFT: 0px; TOP: 84px
+}
+.teacher1 {
+	BACKGROUND: url(../../images/exam/cnt/teacher1_bg_a.jpg) no-repeat
+}
+.teacher1-A {
+	BACKGROUND: url(../../images/exam/cnt/teacher1_bg_a.jpg) no-repeat
+}
+.teacher1 .txt1 {
+	BACKGROUND: url(../../images/exam/cnt/teacher1_txt_1.png) no-repeat center top
+}
+.teacher1 .txt2 {
+	BACKGROUND: url(../../images/exam/cnt/teacher1_txt_2.png) no-repeat center top
+}
+.teacher1-A .txt1 {
+	BACKGROUND: url(../../images/exam/cnt/teacher1_txt_a_1.png) no-repeat center top
+}
+.teacher1-A .txt2 {
+	BACKGROUND: url(../../images/exam/cnt/teacher1_txt_a_2.png) no-repeat center top
+}
+.teacher1-B {
+	BACKGROUND: url(../../images/exam/cnt/teacher1_bg_b.jpg) no-repeat
+}
+.teacher1-B .txt1 {
+	BACKGROUND: url(../../images/exam/cnt/teacher1_txt_b_1.png) no-repeat center top
+}
+.teacher1-B .txt2 {
+	BACKGROUND: url(../../images/exam/cnt/teacher1_txt_b_2.png) no-repeat center top
+}
+.teacher2 {
+	BACKGROUND: url(../../images/exam/cnt/teacher2_bg_a.jpg) no-repeat
+}
+.teacher2-A {
+	BACKGROUND: url(../../images/exam/cnt/teacher2_bg_a.jpg) no-repeat
+}
+.teacher2 .txt1 {
+	BACKGROUND: url(../../images/exam/cnt/teacher2_txt_1.png) no-repeat center top
+}
+.teacher2 .txt2 {
+	BACKGROUND: url(../../images/exam/cnt/teacher2_txt_2.png) no-repeat center top
+}
+.teacher2-A .txt1 {
+	BACKGROUND: url(../../images/exam/cnt/teacher2_txt_a_1.png) no-repeat center top
+}
+.teacher2-A .txt2 {
+	BACKGROUND: url(../../images/exam/cnt/teacher2_txt_a_2.png) no-repeat center top
+}
+.teacher2-B {
+	BACKGROUND: url(../../images/exam/cnt/teacher2_bg_b.jpg) no-repeat
+}
+.teacher2-B .txt1 {
+	BACKGROUND: url(../../images/exam/cnt/teacher2_txt_b_1.png) no-repeat center top
+}
+.teacher2-B .txt2 {
+	BACKGROUND: url(../../images/exam/cnt/teacher2_txt_b_2.png) no-repeat center top
+}
+.teacher3 {
+	BACKGROUND: url(../../images/exam/cnt/teacher3_bg_a.jpg) no-repeat
+}
+.teacher3-A {
+	BACKGROUND: url(../../images/exam/cnt/teacher3_bg_a.jpg) no-repeat
+}
+.teacher3 .txt1 {
+	BACKGROUND: url(../../images/exam/cnt/teacher3_txt_1.png) no-repeat center top
+}
+.teacher3 .txt2 {
+	BACKGROUND: url(../../images/exam/cnt/teacher3_txt_2.png) no-repeat center top
+}
+.teacher3-A .txt1 {
+	BACKGROUND: url(../../images/exam/cnt/teacher3_txt_a_1.png) no-repeat center top
+}
+.teacher3-A .txt2 {
+	BACKGROUND: url(../../images/exam/cnt/teacher3_txt_a_2.png) no-repeat center top
+}
+.teacher4-A {
+	WIDTH: 756px; BACKGROUND: url(../../images/exam/cnt/teacher4_bg_a.jpg) no-repeat; MARGIN-LEFT: -26px
+}
+.teacher4-A .movie-play-wrap {
+	LEFT: 66px
+}
+.teacher4-A .movie-thum {
+	LEFT: 66px
+}
+.teacher4-A .txt1 {
+	BACKGROUND: url(../../images/exam/cnt/teacher4_txt_a_1.png) no-repeat center top
+}
+.teacher4-A .txt2 {
+	BACKGROUND: url(../../images/exam/cnt/teacher4_txt_a_2.png) no-repeat center top
+}
+.teacher4-B {
+	WIDTH: 756px; BACKGROUND: url(../../images/exam/cnt/teacher4_bg_b.jpg) no-repeat; MARGIN-LEFT: -26px
+}
+.teacher4-B .movie-play-wrap {
+	LEFT: 66px
+}
+.teacher4-B .movie-thum {
+	LEFT: 66px
+}
+.teacher4-B .txt1 {
+	BACKGROUND: url(../../images/exam/cnt/teacher4_txt_b_1.png) no-repeat center top
+}
+.teacher4-B .txt2 {
+	BACKGROUND: url(../../images/exam/cnt/teacher4_txt_b_2.png) no-repeat center top
+}
+.teacher5-A {
+	BACKGROUND: url(../../images/exam/cnt/teacher5_bg_a.jpg) no-repeat
+}
+.teacher5-A .txt1 {
+	BACKGROUND: url(../../images/exam/cnt/teacher5_txt_a_1.png) no-repeat center top
+}
+.teacher5-A .txt2 {
+	BACKGROUND: url(../../images/exam/cnt/teacher5_txt_a_2.png) no-repeat center top
+}
+.teacher5-B {
+	BACKGROUND: url(../../images/exam/cnt/teacher5_bg_b.jpg) no-repeat
+}
+.teacher5-B .txt1 {
+	BACKGROUND: url(../../images/exam/cnt/teacher5_txt_b_1.png) no-repeat center top
+}
+.teacher5-B .txt2 {
+	BACKGROUND: url(../../images/exam/cnt/teacher7_txt_b_2.png) no-repeat center top
+}
+.teacher6 {
+	WIDTH: 758px; BACKGROUND: url(../../images/exam/cnt/teacher6_bg.jpg) no-repeat; MARGIN-LEFT: -28px
+}
+.teacher6 .movie-play-wrap {
+	LEFT: 68px
+}
+.teacher6 .movie-thum {
+	LEFT: 68px
+}
+.teacher6 .txt1 {
+	BACKGROUND: url(../../images/exam/cnt/teacher6_txt_1.png) no-repeat center top
+}
+.teacher6 .txt2 {
+	BACKGROUND: url(../../images/exam/cnt/teacher6_txt_2.png) no-repeat center top
+}
+.tit_sel {
+	FONT-SIZE: 12px; BACKGROUND: url(../../images/exam/icon/ic_dot_dark.gif) no-repeat 0px 7px; POSITION: absolute; COLOR: #222; PADDING-LEFT: 7px; LEFT: 95px; BOTTOM: 87px
+}
+.box_sel {
+	BORDER-TOP: #aaa 1px solid; HEIGHT: 43px; BORDER-RIGHT: #aaa 1px solid; WIDTH: 648px; BACKGROUND: #fff; BORDER-BOTTOM: #aaa 1px solid; POSITION: absolute; LEFT: 95px; BORDER-LEFT: #aaa 1px solid; MARGIN: 0px auto; BOTTOM: 39px
+}
+.box_sel .listbox {
+	OVERFLOW: hidden; HEIGHT: 43px; WIDTH: 560px; POSITION: relative; MARGIN-LEFT: 45px
+}
+.box_sel UL {
+	POSITION: relative; FLOAT: left; MARGIN-LEFT: -2px
+}
+.box_sel LI {
+	HEIGHT: 43px; WIDTH: 50px; FLOAT: left; TEXT-ALIGN: center; BORDER-LEFT: #aaa 1px solid
+}
+.box_sel A {
+	FONT-SIZE: 17px; OVERFLOW: hidden; HEIGHT: 100%; COLOR: #888; DISPLAY: block; LINE-HEIGHT: 42px
+}
+.box_sel .on A {
+	FONT-WEIGHT: bold; COLOR: #23409e
+}
+.box_sel A:hover {
+	FONT-WEIGHT: bold; COLOR: #23409e
+}
+.box_sel BUTTON {
+	HEIGHT: 43px; WIDTH: 44px; BACKGROUND: url(../../images/exam/bg/bg_prevnext.gif) no-repeat -3px -16px; POSITION: absolute; TOP: 0px; TEXT-INDENT: -1000em
+}
+.box_sel BUTTON.prev {
+	BORDER-RIGHT: #aaa 1px solid; LEFT: 0px
+}
+.box_sel BUTTON.next {
+	RIGHT: 0px; BACKGROUND-POSITION: -55px -16px; BORDER-LEFT: #aaa 1px solid
+}
+.box_sel BUTTON.off {
+	CURSOR: default; BACKGROUND-POSITION-Y: 15px
+}
+.tbl {
+	BORDER-TOP: #262626 1px solid; WIDTH: 100%
+}
+.tbl TABLE {
+	WIDTH: 100%
+}
+.tbl THEAD TH {
+	BORDER-TOP: 0px; BACKGROUND: #f7f7f7; FONT-WEIGHT: bold; COLOR: #333
+}
+.tbl TH {
+	FONT-SIZE: 13px; BORDER-BOTTOM: #d7d7d7 1px solid; COLOR: #666; PADDING-BOTTOM: 14px; TEXT-ALIGN: center; PADDING-TOP: 13px; PADDING-LEFT: 0px; BORDER-LEFT: #d7d7d7 1px solid; PADDING-RIGHT: 0px
+}
+.tbl TD {
+	FONT-SIZE: 13px; BORDER-BOTTOM: #d7d7d7 1px solid; COLOR: #666; PADDING-BOTTOM: 14px; TEXT-ALIGN: center; PADDING-TOP: 13px; PADDING-LEFT: 0px; BORDER-LEFT: #d7d7d7 1px solid; PADDING-RIGHT: 0px
+}
+.tbl TBODY TR:first-child TD {
+	BORDER-TOP: medium none
+}
+.tbl .first {
+	BORDER-LEFT: medium none
+}
+.graph_box {
+	BORDER-TOP: #ccc 1px solid; BORDER-RIGHT: #ccc 1px solid; BORDER-BOTTOM: #ccc 1px solid; PADDING-BOTTOM: 7px; PADDING-TOP: 8px; PADDING-LEFT: 20px; BORDER-LEFT: #ccc 1px solid; PADDING-RIGHT: 20px
+}
+.gray_box {
+	BACKGROUND: #ececec; COLOR: #333; PADDING-BOTTOM: 15px; PADDING-TOP: 15px; PADDING-LEFT: 20px; MARGIN: 20px 0px 0px; LINE-HEIGHT: 20px; PADDING-RIGHT: 20px
+}
+.item_box {
+	BORDER-TOP: #ccc 1px solid; BORDER-RIGHT: #ccc 1px solid; BORDER-BOTTOM: #ccc 1px solid; PADDING-BOTTOM: 9px; PADDING-TOP: 9px; PADDING-LEFT: 9px; BORDER-LEFT: #ccc 1px solid; PADDING-RIGHT: 9px
+}
+.item_box IMG {
+	WIDTH: 100%
+}
+.schedule_txt {
+	MARGIN-TOP: -30px; TEXT-ALIGN: right
+}
+.schedule_txt SPAN {
+	VERTICAL-ALIGN: bottom; DISPLAY: inline-block
+}
+.schedule_txt .ico1 {
+	BORDER-TOP: #d5d5d5 1px solid; HEIGHT: 13px; BORDER-RIGHT: #d5d5d5 1px solid; WIDTH: 13px; BORDER-BOTTOM: #d5d5d5 1px solid; BORDER-LEFT: #d5d5d5 1px solid
+}
+.schedule_txt .ico2 {
+	BORDER-TOP: 0px; HEIGHT: 15px; BORDER-RIGHT: 0px; WIDTH: 15px; BORDER-BOTTOM: 0px; MARGIN-LEFT: 10px; BORDER-LEFT: 0px
+}
+.schedule_txt .txt {
+	FONT-SIZE: 13px; FONT-WEIGHT: bold; COLOR: #444
+}
+.product_visual {
+	HEIGHT: 520px; POSITION: relative
+}
+.go1 {
+	BACKGROUND: url(../../images/exam/cnt/yap/bg_product_visual_01.jpg) no-repeat 0px 0px
+}
+.go2 {
+	BACKGROUND: url(../../images/exam/cnt/yap/bg_product_visual_02.jpg) no-repeat 0px 0px
+}
+.go3 {
+	BACKGROUND: url(../../images/exam/cnt/yap/bg_product_visual_03.jpg) no-repeat 0px 0px
+}
+.product_visual .txt {
+	FONT-SIZE: 18px; WIDTH: 60px; RIGHT: 30px; POSITION: absolute; FONT-WEIGHT: bold; COLOR: #192952; TEXT-ALIGN: center; TOP: 25px
+}
+.product_visual .txt EM {
+	FONT-SIZE: 19px; MARGIN-BOTTOM: -2px
+}
+.product_visual .txt SPAN {
+	VERTICAL-ALIGN: bottom; DISPLAY: inline-block
+}
+.product_visual .txt EM {
+	VERTICAL-ALIGN: bottom; DISPLAY: inline-block
+}
+.product_visual .btn1 {
+	HEIGHT: 78px; WIDTH: 133px; POSITION: absolute; LEFT: 80px; DISPLAY: block; BOTTOM: 124px; TEXT-INDENT: -1000em
+}
+.product_visual .btn2 {
+	HEIGHT: 78px; WIDTH: 133px; RIGHT: 80px; POSITION: absolute; DISPLAY: block; BOTTOM: 124px; TEXT-INDENT: -1000em
+}
+.product_price {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 34px; PADDING-LEFT: 55px; PADDING-RIGHT: 0px
+}
+.go1 {
+	HEIGHT: 1821px; BACKGROUND: url(../../images/exam/cnt/yap/bg_product_go1.gif) no-repeat 0px 0px
+}
+.go2 {
+	HEIGHT: 1821px; BACKGROUND: url(../../images/exam/cnt/yap/bg_product_go2.gif) no-repeat 0px 0px
+}
+.go3 {
+	HEIGHT: 1095px; BACKGROUND: url(../../images/exam/cnt/yap/bg_product_go3.gif) no-repeat 0px 0px
+}
+.product_price DL {
+	WIDTH: 355px; FLOAT: left; PADDING-BOTTOM: 76px; PADDING-TOP: 46px; PADDING-LEFT: 0px; MARGIN: 0px 5px; PADDING-RIGHT: 0px
+}
+.product_price DL DT {
+	FONT-SIZE: 13px; COLOR: #666; PADDING-BOTTOM: 28px; TEXT-ALIGN: center; PADDING-TOP: 15px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.product_price DL DT STRONG {
+	FONT-SIZE: 20px; COLOR: #333
+}
+.product_price DL DD {
+	TEXT-ALIGN: center
+}
+.product_price DL DD .txt {
+	FONT-SIZE: 15px; FONT-WEIGHT: bold; COLOR: #333; PADDING-BOTTOM: 9px; TEXT-ALIGN: center; PADDING-TOP: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.product_price DL DD .price {
+	FONT-SIZE: 16px; HEIGHT: 75px; WIDTH: 200px; COLOR: #666; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 4px; MARGIN: 0px auto 15px; LETTER-SPACING: -1px; PADDING-RIGHT: 0px
+}
+.product_price DL DD .price .num {
+	FONT-SIZE: 18px; BACKGROUND: url(../../images/exam/bg/bg_arr.gif) no-repeat left 8px; FONT-WEIGHT: bold; COLOR: #23409e; PADDING-LEFT: 17px; MARGIN-LEFT: 8px; DISPLAY: inline-block
+}
+.product_price DL DD .btn_bck {
+	FONT-SIZE: 13px
+}
+.product_tab_wrap {
+	MARGIN-TOP: 40px
+}
+.product_tab UL {
+	OVERFLOW: hidden
+}
+.product_tab UL LI {
+	WIDTH: 280px; FLOAT: left
+}
+.product_tab UL LI A {
+	HEIGHT: 64px; DISPLAY: block; TEXT-INDENT: -1000em
+}
+.product_tab_cont01 .product_tab {
+	BACKGROUND: url(../../images/exam/cnt/yap/bg_product_tab.gif) no-repeat 0px 0px
+}
+.product_tab_cont02 .product_tab {
+	BACKGROUND: url(../../images/exam/cnt/yap/bg_product_tab.gif) no-repeat 0px -64px
+}
+.product_tab_cont03 .product_tab {
+	BACKGROUND: url(../../images/exam/cnt/yap/bg_product_tab.gif) no-repeat 0px -128px
+}
+.product_tab2_cont01 .product_tab {
+	BACKGROUND: url(../../images/exam/cnt/bg_pointservice_tab.gif) no-repeat 0px 0px
+}
+.product_tab2_cont02 .product_tab {
+	BACKGROUND: url(../../images/exam/cnt/bg_pointservice_tab.gif) no-repeat 0px -64px
+}
+.product_tab2_cont03 .product_tab {
+	BACKGROUND: url(../../images/exam/cnt/bg_pointservice_tab.gif) no-repeat 0px -128px
+}
+.product_tab_cont_wrap .tit_mg {
+	MARGIN-TOP: -24px
+}
+.product_table TABLE {
+	BORDER-COLLAPSE: collapse; BORDER-SPACING: 0
+}
+.product_table TABLE TR TH {
+	BORDER-TOP: #262626 1px solid; BACKGROUND: #f7f7f7; FONT-WEIGHT: bold; TEXT-ALIGN: center
+}
+.product_table TABLE TR TH {
+	FONT-SIZE: 13px; HEIGHT: 45px; BORDER-BOTTOM: #dbdbdb 1px solid; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 20px; BORDER-LEFT: #dbdbdb 1px solid; PADDING-RIGHT: 20px
+}
+.product_table TABLE TR TD {
+	FONT-SIZE: 13px; HEIGHT: 45px; BORDER-BOTTOM: #dbdbdb 1px solid; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 20px; BORDER-LEFT: #dbdbdb 1px solid; PADDING-RIGHT: 20px
+}
+.product_table TABLE TR .first {
+	TEXT-ALIGN: center; BORDER-LEFT: medium none
+}
+.product_table_tit {
+	FONT-SIZE: 33px; BACKGROUND: url(../../images/exam/cnt/yap/product_line_bg.jpg) repeat-x left bottom; FONT-WEIGHT: bold; COLOR: #333; PADDING-BOTTOM: 19px; TEXT-ALIGN: center; MARGIN: 50px 0px 35px; LETTER-SPACING: -1px
+}
+.with_tag DIV {
+	POSITION: relative; PADDING-TOP: 23px; LINE-HEIGHT: 1
+}
+.with_tag DIV .tag {
+	HEIGHT: 27px; WIDTH: 93px; BACKGROUND: url(../../images/exam/icon/ic_betatest.png) no-repeat 0px 0px; POSITION: absolute; LEFT: 285px; TOP: 0px
+}
+.product_info {
+	
+}
+.product_info > DT {
+	HEIGHT: 40px; BACKGROUND: url(../../images/exam/bg/bg_title_gray.gif) repeat-x 0px 0px
+}
+.product_info > DT SPAN {
+	FONT-SIZE: 17px; HEIGHT: 40px; BACKGROUND: url(../../images/exam/bg/bg_arr_up.png) no-repeat center bottom; COLOR: #c5c7cf; TEXT-ALIGN: center; DISPLAY: block; LINE-HEIGHT: 38px
+}
+.product_info > DT SPAN STRONG {
+	FONT-WEIGHT: bold; COLOR: #fff
+}
+.product_info .inbox {
+	OVERFLOW: hidden; TEXT-ALIGN: center
+}
+.product_info .inbox DL {
+	MARGIN-BOTTOM: 23px; BORDER-TOP: #bababa 1px solid; BORDER-RIGHT: #bababa 1px solid; WIDTH: 618px; MARGIN-TOP: 6px; BORDER-BOTTOM: #bababa 1px solid; BORDER-LEFT: #bababa 1px solid; box-shadow: 0 3px 0 #ebebeb
+}
+.product_info .inbox DL.f_right {
+	WIDTH: 208px; MARGIN-LEFT: 10px
+}
+.product_info .inbox DL DT {
+	FONT-SIZE: 15px; HEIGHT: 22px; BACKGROUND: url(../../images/exam/bg/bg_line2.gif) 0px 0px; FONT-WEIGHT: bold; COLOR: #173bae; PADDING-BOTTOM: 12px; TEXT-ALIGN: center; PADDING-TOP: 13px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.product_info .inbox DL.f_right DT {
+	COLOR: #8f6d4b
+}
+.product_info .inbox DL DD {
+	OVERFLOW: hidden; PADDING-BOTTOM: 20px; PADDING-TOP: 25px; PADDING-LEFT: 0px; LETTER-SPACING: -1px; PADDING-RIGHT: 0px
+}
+.product_info .inbox DL DD LI {
+	WIDTH: 166px; BACKGROUND: url(../../images/exam/bg/bg_inbox_bar.gif) no-repeat left top; FLOAT: left; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 19px; PADDING-RIGHT: 19px
+}
+.product_info .inbox DL DD LI:first-child {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.product_info .inbox DL DD .txt01 {
+	FONT-SIZE: 13px; COLOR: #666; LINE-HEIGHT: 19px
+}
+.product_info .inbox DL DD .txt01 STRONG {
+	FONT-SIZE: 18px; COLOR: #333
+}
+.product_info .inbox DL DD .txt02 {
+	FONT-SIZE: 15px; BACKGROUND: url(../../images/exam/bg/bg_line5.gif) repeat-x 0px 0px; MARGIN-TOP: 14px; COLOR: #666; PADDING-TOP: 14px
+}
+.product_info .inbox DL DD .price {
+	FONT-SIZE: 18px; FONT-WEIGHT: bold; COLOR: #23409e; PADDING-BOTTOM: 22px
+}
+.product_info .inbox DL.f_right DD .price {
+	COLOR: #654628
+}
+.product_info2 {
+	OVERFLOW: hidden
+}
+.product_info2 DL {
+	BORDER-TOP: #dbdbdb 1px solid; HEIGHT: 78px; BORDER-RIGHT: #dbdbdb 1px solid; BORDER-BOTTOM: #dbdbdb 1px solid; BORDER-LEFT: #dbdbdb 1px solid
+}
+.product_info2 DL DT {
+	HEIGHT: 100%; WIDTH: 213px; BACKGROUND: url(../../images/exam/bg/bg_line2.gif) 0px 0px; FLOAT: left; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 23px; LETTER-SPACING: -1px; LINE-HEIGHT: 78px; PADDING-RIGHT: 0px
+}
+.product_info2 DL DT SPAN {
+	FONT-SIZE: 15px; HEIGHT: 100%; BACKGROUND: url(../../images/exam/bg/bg_title_line_arr.gif) no-repeat right center; FONT-WEIGHT: bold; COLOR: #333; DISPLAY: block
+}
+.product_info2 DL DD {
+	HEIGHT: 100%; POSITION: relative; FLOAT: left; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 30px; PADDING-RIGHT: 100px
+}
+.product_info2 DL DD P {
+	FONT-SIZE: 14px; COLOR: #666; LETTER-SPACING: -1px; LINE-HEIGHT: 78px
+}
+.product_info2 DL DD.btn {
+	FLOAT: right; PADDING-BOTTOM: 0px; PADDING-TOP: 20px; PADDING-LEFT: 0px; PADDING-RIGHT: 20px
+}
+.product_info3 {
+	OVERFLOW: hidden; PADDING-BOTTOM: 40px
+}
+.product_info3 DL {
+	BORDER-TOP: #dbdbdb 1px solid; WIDTH: 410px; BORDER-BOTTOM: #dbdbdb 1px solid
+}
+.product_info3 DT {
+	BACKGROUND: #f7f7f7
+}
+.product_info3 DT SPAN {
+	FONT-SIZE: 15px; HEIGHT: 40px; BACKGROUND: url(../../images/exam/bg/bg_arr_up.png) no-repeat center bottom; COLOR: #333; TEXT-ALIGN: center; DISPLAY: block; LINE-HEIGHT: 38px
+}
+.product_info3 DD {
+	PADDING-BOTTOM: 20px; TEXT-ALIGN: center; PADDING-TOP: 20px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.schedule .tit {
+	OVERFLOW: hidden
+}
+.schedule .tit STRONG {
+	HEIGHT: 40px; BORDER-RIGHT: #fff 1px solid; WIDTH: 239px; BACKGROUND: url(../../images/exam/icon/ic_schedule_arrow.gif) #e8ebee no-repeat center bottom; FLOAT: left; COLOR: #333; TEXT-ALIGN: center; LINE-HEIGHT: 40px
+}
+.schedule .tit .month {
+	WIDTH: 120px; MARGIN-LEFT: -1px
+}
+.schedule .detail_list LI {
+	WIDTH: 100%; MARGIN-TOP: 5px; ZOOM: 1; MIN-HEIGHT: 78px; DISPLAY: table
+}
+.schedule .detail_list LI:first-child {
+	MARGIN-TOP: 7px
+}
+.schedule .detail_list LI EM {
+	BORDER-TOP: #dbdbdb 1px solid; BORDER-RIGHT: #dbdbdb 1px solid; WIDTH: 118px; VERTICAL-ALIGN: middle; BACKGROUND: #f7f7f7; BORDER-BOTTOM: #dbdbdb 1px solid; ZOOM: 1; FLOAT: left; COLOR: #333; TEXT-ALIGN: center; MIN-HEIGHT: 78px; BORDER-LEFT: #dbdbdb 1px solid; DISPLAY: table-cell; LINE-HEIGHT: 70px
+}
+.schedule .detail_list LI EM .num {
+	FONT-SIZE: 35px; VERTICAL-ALIGN: middle
+}
+.schedule .detail_list LI .scope {
+	BORDER-TOP: #dbdbdb 1px solid; BORDER-RIGHT: #dbdbdb 1px solid; WIDTH: 198px; VERTICAL-ALIGN: middle; BORDER-BOTTOM: #dbdbdb 1px solid; ZOOM: 1; FLOAT: left; COLOR: #333; PADDING-BOTTOM: 10px; TEXT-ALIGN: left; PADDING-TOP: 10px; PADDING-LEFT: 20px; MIN-HEIGHT: 58px; BORDER-LEFT: medium none; DISPLAY: table-cell; LETTER-SPACING: -1px; LINE-HEIGHT: 25px; PADDING-RIGHT: 20px
+}
+.schedule .detail_list LI .scope .day {
+	WIDTH: 55px; FONT-WEIGHT: bold; COLOR: #23409e; DISPLAY: inline-block
+}
+.event_open #event02 {
+	HEIGHT: 592px; BACKGROUND: url(../../images/exam/event/img_open04.jpg) no-repeat 0px 0px; POSITION: relative
+}
+.event_open #event02 .date {
+	RIGHT: 169px; POSITION: absolute; COLOR: #4c2c23; TOP: 311px
+}
+.event_open #event02 .date STRONG {
+	FONT-SIZE: 35px; VERTICAL-ALIGN: middle; ZOOM: 1; DISPLAY: inline
+}
+.event_open #event02 .date SPAN {
+	FONT-SIZE: 27px; VERTICAL-ALIGN: middle; ZOOM: 1; DISPLAY: inline
+}
+.event_open #event02 .count {
+	FONT-SIZE: 63px; RIGHT: 140px; POSITION: absolute; FONT-WEIGHT: bold; COLOR: #161831; LETTER-SPACING: 28px; TOP: 375px; tetx-align: right
+}
+.event_open #event02 .btn {
+	HEIGHT: 47px; WIDTH: 205px; RIGHT: 147px; POSITION: absolute; DISPLAY: block; TOP: 492px; TEXT-INDENT: -1000em
+}
+.event_open .event_cont {
+	HEIGHT: 568px; BACKGROUND: url(../../images/exam/event/img_open05.jpg) no-repeat 0px 0px; POSITION: relative; PADDING-TOP: 40px
+}
+.event_open .event_cont .day_list {
+	WIDTH: 665px; POSITION: relative; MARGIN: 0px auto
+}
+.event_open .event_cont .day_list UL {
+	HEIGHT: 241px; BACKGROUND: #5d6dee
+}
+.event_open .event_cont .day_list UL:after {
+	CLEAR: both; DISPLAY: block
+}
+.event_open .event_cont .day_list LI {
+	MARGIN-BOTTOM: 1px; WIDTH: 132px; POSITION: relative; FLOAT: left; TEXT-ALIGN: center; BORDER-LEFT: #454a85 1px solid
+}
+.event_open .event_cont .day_list LI .date {
+	FONT-SIZE: 16px; HEIGHT: 50px; BACKGROUND: url(../../images/exam/event/bg_date.gif) #171d67 no-repeat center bottom; FONT-WEIGHT: bold; COLOR: #797fb0; DISPLAY: block; LINE-HEIGHT: 50px
+}
+.event_open .event_cont .day_list LI .num {
+	FONT-SIZE: 20px; HEIGHT: 70px; BACKGROUND: #12142a; DISPLAY: block; LINE-HEIGHT: 68px
+}
+.event_open .event_cont .day_list LI .num STRONG {
+	FONT-SIZE: 28px
+}
+.event_open .event_cont .day_list LI .txt {
+	FONT-SIZE: 18px; FONT-WEIGHT: bold
+}
+.event_open .event_cont .day_list LI .ico {
+	DISPLAY: none
+}
+.event_open .event_cont .day_list LI.on .date {
+	COLOR: #fff
+}
+.event_open .event_cont .day_list LI.on .num {
+	COLOR: #ffdd00
+}
+.event_open .event_cont .day_list LI.on .ico {
+	HEIGHT: 33px; WIDTH: 81px; BACKGROUND: url(../../images/exam/event/ico_today.png) no-repeat 0px 0px; POSITION: absolute; LEFT: 26px; DISPLAY: block; TOP: -20px; TEXT-INDENT: -1000em
+}
+.event_open .event_cont .day_list .winner {
+	HEIGHT: 100%; WIDTH: 100%; BACKGROUND: url(../../images/exam/event/img_open_winner.png) no-repeat 0px 0px; POSITION: absolute; LEFT: 0px; TOP: 0px
+}
+.event_open .event_cont .day_list .winner A {
+	HEIGHT: 50px; WIDTH: 196px; POSITION: absolute; LEFT: 237px; DISPLAY: block; TOP: 111px; TEXT-INDENT: -1000em
+}
+.event_open .event_cont .txt_list {
+	WIDTH: 665px; PADDING-TOP: 31px; CLEAR: both; MARGIN: 0px auto
+}
+.event_open .event_cont .txt_list UL {
+	MARGIN-TOP: 10px
+}
+.event_open .event_cont .txt_list LI {
+	BACKGROUND: url(../../images/exam/event/ico_dash.gif) no-repeat 0px 9px; COLOR: #bccce4; PADDING-BOTTOM: 5px; PADDING-TOP: 0px; PADDING-LEFT: 10px; LINE-HEIGHT: 19px; PADDING-RIGHT: 0px
+}
+.sec_search_option {
+	BORDER-TOP: #7b8591 3px solid; BORDER-RIGHT: #7b8591 3px solid; MARGIN-TOP: 40px; BORDER-BOTTOM: #7b8591 3px solid; BORDER-LEFT: #7b8591 3px solid
+}
+.sec_search_option DT {
+	FONT-SIZE: 17px; BACKGROUND: url(../../images/exam/icon/ic_find.gif) #7b8591 no-repeat 30px 12px; FONT-WEIGHT: bold; COLOR: #fff; PADDING-BOTTOM: 16px; PADDING-TOP: 11px; PADDING-LEFT: 55px; LETTER-SPACING: -1px; LINE-HEIGHT: 1; PADDING-RIGHT: 25px
+}
+.sec_search_option DD {
+	PADDING-BOTTOM: 4px; PADDING-TOP: 4px; PADDING-LEFT: 22px; PADDING-RIGHT: 22px
+}
+.sec_search_option .tbl_check_list UL {
+	OVERFLOW: hidden
+}
+.sec_search_option .tbl_check_list LI {
+	FLOAT: left; MARGIN-RIGHT: 22px
+}
+.sec_search_option .tbl_check_list TH {
+	BORDER-TOP: #dbdbdb 1px solid; PADDING-BOTTOM: 14px; PADDING-TOP: 14px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px
+}
+.sec_search_option .tbl_check_list TD {
+	BORDER-TOP: #dbdbdb 1px solid; PADDING-BOTTOM: 14px; PADDING-TOP: 14px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px
+}
+.sec_search_option .tbl_check_list .first TH {
+	BORDER-TOP: medium none
+}
+.sec_search_option .tbl_check_list .first TD {
+	BORDER-TOP: medium none
+}
+.sec_search_option .tbl_check_list TH {
+	FONT-SIZE: 13px; FONT-WEIGHT: bold; COLOR: #333; TEXT-ALIGN: left; TEXT-INDENT: 23px
+}
+.wrap_result {
+	HEIGHT: 376px; OVERFLOW-Y: scroll; PADDING-RIGHT: 12px
+}
+.t_top {
+	OVERFLOW: hidden; HEIGHT: 29px; PADDING-RIGHT: 29px
+}
+.wrap_result .tbl_data TH {
+	PADDING-BOTTOM: 5px; PADDING-TOP: 5px; PADDING-LEFT: 11px; PADDING-RIGHT: 11px
+}
+.wrap_result .tbl_data TD {
+	PADDING-BOTTOM: 5px; PADDING-TOP: 5px; PADDING-LEFT: 11px; PADDING-RIGHT: 11px
+}
+.t_top + .wrap_result .tbl_data TABLE {
+	BORDER-TOP: 0px; MARGIN-TOP: -30px
+}
+.select_count {
+	HEIGHT: 30px; BACKGROUND: url(../../images/exam/bg/bg_line2.gif) 0px 0px; MARGIN-TOP: 15px; BORDER-BOTTOM: #dedede 1px dotted; PADDING-BOTTOM: 10px; TEXT-ALIGN: center; PADDING-TOP: 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.select_count * {
+	
+}
+.select_count SPAN {
+	FONT-WEIGHT: bold
+}
+.select_count STRONG {
+	FONT-SIZE: 17px; VERTICAL-ALIGN: -1px; BACKGROUND: url(../../images/exam/bg/bg_dot3.gif) no-repeat 0px 10px; COLOR: #23409e; PADDING-LEFT: 8px; DISPLAY: inline-block
+}
+.select_count .text {
+	FONT-SIZE: 17px; BORDER-TOP: #999 2px solid; HEIGHT: 17px; BORDER-RIGHT: #999 2px solid; WIDTH: 58px; BORDER-BOTTOM: #999 2px solid; COLOR: #000; PADDING-BOTTOM: 5px; TEXT-ALIGN: center; PADDING-TOP: 3px; PADDING-LEFT: 3px; BORDER-LEFT: #999 2px solid; MARGIN: 0px 5px 0px 10px; LINE-HEIGHT: 1; PADDING-RIGHT: 3px
+}
+.data_unit DT {
+	BORDER-TOP: #000 1px solid; BORDER-BOTTOM: #dbdbdb 1px solid; FONT-WEIGHT: bold; COLOR: #333; PADDING-BOTTOM: 10px; TEXT-ALIGN: center; PADDING-TOP: 11px; PADDING-LEFT: 0px; LINE-HEIGHT: 1; PADDING-RIGHT: 0px; BACKGROUND-COLOR: #f7f7f7
+}
+.data_unit DD {
+	BACKGROUND: url(../../images/exam/bg/bg_bar4.gif) 0px 0px
+}
+.data_unit DD UL {
+	OVERFLOW: hidden
+}
+.data_unit DD LI {
+	CURSOR: pointer; WIDTH: 86px; FLOAT: left; PADDING-BOTTOM: 11px; TEXT-ALIGN: center; PADDING-TOP: 11px; PADDING-LEFT: 0px; LINE-HEIGHT: 14px; PADDING-RIGHT: 0px
+}
+.pop_layer .scroll TD:hover {
+	TEXT-DECORATION: underline
+}
+.data_unit DD LI:hover {
+	TEXT-DECORATION: underline
+}
+.data_unit DD LI.on {
+	TEXT-DECORATION: underline
+}
+.pop_preview {
+	BACKGROUND-COLOR: #fff
+}
+.pop_preview .tit {
+	FONT-SIZE: 22px; HEIGHT: 40px; COLOR: #fff; PADDING-BOTTOM: 0px; PADDING-TOP: 20px; PADDING-LEFT: 28px; LINE-HEIGHT: 1; PADDING-RIGHT: 28px; BACKGROUND-COLOR: #222636
+}
+.pop_preview .tit SPAN {
+	FONT-SIZE: 22px; BACKGROUND-IMAGE: url(../../images/exam/layout/bg_h3_pop.gif); MARGIN-TOP: 0px; COLOR: #fff; LINE-HEIGHT: 1
+}
+.pop_preview .inner {
+	PADDING-BOTTOM: 24px; PADDING-TOP: 24px; PADDING-LEFT: 30px; PADDING-RIGHT: 30px
+}
+.v_quiz .inbox {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.v_quiz .inbox TD {
+	FONT-SIZE: 14px; FONT-WEIGHT: bold; COLOR: #666; PADDING-BOTTOM: 21px; TEXT-ALIGN: center; PADDING-TOP: 20px; PADDING-LEFT: 0px; BORDER-LEFT: #ebebeb 1px solid; LINE-HEIGHT: 17px; PADDING-RIGHT: 0px
+}
+.v_quiz .inbox TD STRONG {
+	FONT-SIZE: 17px; COLOR: #333
+}
+.v_quiz .inbox TD.txt_l {
+	PADDING-LEFT: 30px
+}
+.select_quiz_area {
+	BORDER-TOP: #9c9fab 1px solid; HEIGHT: 480px; BORDER-RIGHT: #9c9fab 1px solid; OVERFLOW-Y: scroll; BORDER-BOTTOM: #9c9fab 1px solid; POSITION: relative; PADDING-BOTTOM: 40px; PADDING-TOP: 40px; PADDING-LEFT: 0px; BORDER-LEFT: #9c9fab 1px solid; PADDING-RIGHT: 0px
+}
+.select_quiz_area .select_quiz {
+	
+}
+.select_quiz_area .btn_quiz_left {
+	POSITION: absolute; LEFT: 0px; TOP: 255px
+}
+.select_quiz_area .btn_quiz_right {
+	RIGHT: 0px; POSITION: absolute; TOP: 255px
+}
+.select_quiz_area .select_quiz .quiz_top {
+	MARGIN-BOTTOM: 22px; BORDER-BOTTOM: #e5e5e5 1px solid; FONT-WEIGHT: bold; COLOR: #333; PADDING-BOTTOM: 6px; LETTER-SPACING: -1px
+}
+.select_quiz_area .select_quiz .quiz_top .f_right {
+	MARGIN-TOP: 5px
+}
+.select_quiz_area .select_quiz .quiz_top LABEL {
+	FONT-SIZE: 26px; VERTICAL-ALIGN: -5px
+}
+.select_quiz_area .select_quiz .quiz_data {
+	
+}
+.select_quiz_area .select_quiz .quiz_info {
+	OVERFLOW: hidden; WIDTH: 100%; POSITION: relative; MARGIN: 30px 0px 60px; DISPLAY: table
+}
+.select_quiz_area .select_quiz .quiz_info DT {
+	WIDTH: 98px; VERTICAL-ALIGN: middle; BACKGROUND: #dbe2ef; FONT-WEIGHT: bold; COLOR: #23409e; TEXT-ALIGN: center; DISPLAY: table-cell
+}
+.select_quiz_area .select_quiz .quiz_info DD {
+	BACKGROUND: url(../../images/exam/cnt/bg_arr.gif) #eff2f8 no-repeat 0px center; PADDING-BOTTOM: 14px; PADDING-TOP: 14px; PADDING-LEFT: 20px; DISPLAY: table-cell; PADDING-RIGHT: 20px
+}
+.select_quiz_area .select_quiz .quiz_info DD.percent {
+	WIDTH: 140px; BACKGROUND: #fff; RIGHT: 14px; MARGIN-TOP: -22px; POSITION: absolute; COLOR: #333; PADDING-BOTTOM: 14px; TEXT-ALIGN: center; PADDING-TOP: 14px; PADDING-LEFT: 0px; TOP: 50%; PADDING-RIGHT: 0px
+}
+.select_quiz_area .select_quiz .quiz_info DD.percent STRONG {
+	FONT-SIZE: 18px; VERTICAL-ALIGN: -3px; FONT-WEIGHT: bold
+}
+.pop_preview .rain_box {
+	BORDER-TOP: #d0d0d0 1px solid; COLOR: #333; PADDING-LEFT: 30px; LETTER-SPACING: -1px; PADDING-RIGHT: 30px
+}
+.pop_preview .view_btn {
+	WIDTH: auto !important; PADDING-BOTTOM: 20px; PADDING-TOP: 20px; PADDING-LEFT: 30px; PADDING-RIGHT: 30px
+}
+.wrap_question {
+	OVERFLOW: auto; HEIGHT: 798px; WIDTH: 950px; OVERFLOW-X: hidden; POSITION: relative; PADDING-TOP: 25px; PADDING-LEFT: 30px; BACKGROUND-COLOR: #fff
+}
+.wrap_question .select_quiz_area {
+	HEIGHT: 511px
+}
+.wrap_question .sub_tab_all {
+	HEIGHT: 44px
+}
+.wrap_question .btn_right_section {
+	RIGHT: 0px; POSITION: absolute; TOP: 6px
+}
+.wrap_question .btn_right_section .tabbtn {
+	MARGIN-RIGHT: 19px
+}
+.wrap_question .btn_right_section .tabbtn A {
+	MARGIN-LEFT: -1px
+}
+.wrap_question .btn_right_section .view_paragraph:hover {
+	BORDER-TOP-COLOR: #23409e; BACKGROUND-POSITION: 14px -33px; BORDER-LEFT-COLOR: #23409e; COLOR: #23409e; BORDER-BOTTOM-COLOR: #23409e; BORDER-RIGHT-COLOR: #23409e
+}
+.wrap_question .btn_right_section .view_question:hover {
+	BORDER-TOP-COLOR: #23409e; BACKGROUND-POSITION: 13px -32px; BORDER-LEFT-COLOR: #23409e; COLOR: #23409e; BORDER-BOTTOM-COLOR: #23409e; BORDER-RIGHT-COLOR: #23409e
+}
+.wrap_question .btn_right_section .view_paragraph {
+	BACKGROUND: url(../../images/exam/icon/ic_viewthree.png) no-repeat 14px 9px; PADDING-LEFT: 35px
+}
+.wrap_question .btn_right_section .view_question {
+	BACKGROUND: url(../../images/exam/icon/ic_viewone.png) no-repeat 13px 9px; PADDING-LEFT: 35px
+}
+.wrap_answersheet {
+	WIDTH: 189px; RIGHT: 0px; POSITION: absolute; LEFT: 1010px; BORDER-LEFT: #d9dbda 1px solid; TOP: 60px; BACKGROUND-COLOR: #f7f7f7
+}
+.wrap_answersheet .pos {
+	HEIGHT: 823px; POSITION: relative
+}
+.wrap_answersheet .btn_rework {
+	WIDTH: 100%; RIGHT: 0px; POSITION: absolute; BOTTOM: 0px
+}
+.wrap_answersheet .first_t {
+	BORDER-LEFT: medium none
+}
+.wrap_exam TABLE.tbl_exam_st1 {
+	WIDTH: 100%; BORDER-COLLAPSE: collapse; BORDER-BOTTOM: #e5e5e5 2px solid; BORDER-SPACING: 0
+}
+.wrap_exam TABLE.tbl_exam_st1 THEAD TH {
+	FONT-SIZE: 11px; BORDER-BOTTOM: #e5e5e5 2px solid; COLOR: #333; BACKGROUND-COLOR: #f8f8f8
+}
+.wrap_exam TABLE.tbl_exam_st1 THEAD TH {
+	HEIGHT: 27px; COLOR: #444; TEXT-ALIGN: center; BORDER-LEFT: #d4d4d4 1px solid
+}
+.wrap_exam TABLE.tbl_exam_st1 TBODY TD {
+	HEIGHT: 27px; COLOR: #444; TEXT-ALIGN: center; BORDER-LEFT: #d4d4d4 1px solid
+}
+.wrap_exam TABLE.tbl_exam_st1 TBODY TD {
+	FONT-WEIGHT: bold; BACKGROUND-COLOR: #fff
+}
+.wrap_exam TABLE.tbl_exam_st1 EM {
+	FONT-SIZE: 14px; COLOR: #23409e
+}
+.wrap_exam .tbl_exam_caption {
+	FONT-SIZE: 13px; BACKGROUND: url(../../images/exam/bg/bg_line2.gif) 0px 0px; BORDER-BOTTOM: #dedede 1px dotted; FONT-WEIGHT: bold; COLOR: #333; PADDING-BOTTOM: 6px; TEXT-ALIGN: center; PADDING-TOP: 6px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.tbl_answersheet {
+	BORDER-TOP: #d9dbda 0px solid; BORDER-RIGHT: #d9dbda 0px solid; WIDTH: 100%; BORDER-COLLAPSE: collapse; BORDER-BOTTOM: #d9dbda 1px solid; BORDER-SPACING: 0; BORDER-LEFT: #d9dbda 0px solid
+}
+.tbl_answersheet THEAD TH {
+	HEIGHT: 28px; FONT-WEIGHT: bold; COLOR: #555; TEXT-ALIGN: center; BORDER-LEFT: #d9dbda 1px solid; BACKGROUND-COLOR: #fff
+}
+.tbl_answersheet TBODY TD {
+	HEIGHT: 28px; FONT-WEIGHT: bold; COLOR: #555; TEXT-ALIGN: center; BORDER-LEFT: #d9dbda 1px solid; BACKGROUND-COLOR: #fff
+}
+.tbl_answersheet THEAD TH {
+	FONT-SIZE: 11px; BORDER-BOTTOM: #e5e5e5 2px solid; LETTER-SPACING: -1px; LINE-HEIGHT: 1
+}
+.tbl_answersheet THEAD .first_row TH {
+	BORDER-LEFT: medium none
+}
+.tbl_answersheet TBODY TD {
+	BORDER-BOTTOM: #afafaf 1px dotted
+}
+.tbl_answersheet TBODY TD DIV {
+	HEIGHT: 100%; WIDTH: 100%; POSITION: relative; LINE-HEIGHT: 28px
+}
+.tbl_answersheet .txt_l {
+	PADDING-LEFT: 7px
+}
+.tbl_answersheet LABEL {
+	OVERFLOW: hidden; HEIGHT: 100%; WIDTH: 100%; POSITION: absolute; LEFT: 0px; Z-INDEX: 20; DISPLAY: block; TOP: 0px; BACKGROUND-COLOR: #fff; TEXT-INDENT: -9999px
+}
+.tbl_answersheet INPUT.a1 + LABEL {
+	BACKGROUND: url(../../images/exam/icon/a1.png) #fff no-repeat center center
+}
+.tbl_answersheet INPUT.a2 + LABEL {
+	BACKGROUND: url(../../images/exam/icon/a2.png) #fff no-repeat center center
+}
+.tbl_answersheet INPUT.a3 + LABEL {
+	BACKGROUND: url(../../images/exam/icon/a3.png) #fff no-repeat center center
+}
+.tbl_answersheet INPUT.a4 + LABEL {
+	BACKGROUND: url(../../images/exam/icon/a4.png) #fff no-repeat center center
+}
+.tbl_answersheet INPUT.a5 + LABEL {
+	BACKGROUND: url(../../images/exam/icon/a5.png) #fff no-repeat center center
+}
+.tbl_answersheet INPUT.a1 + LABEL.checked {
+	BACKGROUND: url(../../images/exam/icon/a1_checked.png) #eff2f8 no-repeat center center
+}
+.tbl_answersheet INPUT.a1:unknown + LABEL {
+	BACKGROUND: url(../../images/exam/icon/a1_checked.png) #eff2f8 no-repeat center center
+}
+.tbl_answersheet INPUT.a2 + LABEL.checked {
+	BACKGROUND: url(../../images/exam/icon/a2_checked.png) #eff2f8 no-repeat center center
+}
+.tbl_answersheet INPUT.a2:unknown + LABEL {
+	BACKGROUND: url(../../images/exam/icon/a2_checked.png) #eff2f8 no-repeat center center
+}
+.tbl_answersheet INPUT.a3 + LABEL.checked {
+	BACKGROUND: url(../../images/exam/icon/a3_checked.png) #eff2f8 no-repeat center center
+}
+.tbl_answersheet INPUT.a3:unknown + LABEL {
+	BACKGROUND: url(../../images/exam/icon/a3_checked.png) #eff2f8 no-repeat center center
+}
+.tbl_answersheet INPUT.a4 + LABEL.checked {
+	BACKGROUND: url(../../images/exam/icon/a4_checked.png) #eff2f8 no-repeat center center
+}
+.tbl_answersheet INPUT.a4:unknown + LABEL {
+	BACKGROUND: url(../../images/exam/icon/a4_checked.png) #eff2f8 no-repeat center center
+}
+.tbl_answersheet INPUT.a5 + LABEL.checked {
+	BACKGROUND: url(../../images/exam/icon/a5_checked.png) #eff2f8 no-repeat center center
+}
+.tbl_answersheet INPUT.a5:unknown + LABEL {
+	BACKGROUND: url(../../images/exam/icon/a5_checked.png) #eff2f8 no-repeat center center
+}
+.wrap_exam INPUT.input_st1 {
+	BORDER-TOP: #707070 1px solid; HEIGHT: 13px; BORDER-RIGHT: #707070 1px solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #707070 1px solid; COLOR: #777; BORDER-LEFT: #707070 1px solid
+}
+.wrap_exam INPUT.input_st1:unknown {
+	BORDER-TOP-COLOR: #d9dbda; BORDER-LEFT-COLOR: #d9dbda; COLOR: #777; BORDER-BOTTOM-COLOR: #d9dbda; BORDER-RIGHT-COLOR: #d9dbda; BACKGROUND-COLOR: #e5e5e5
+}
+.wrap_exam DIV > INPUT.input_st1 {
+	MARGIN-TOP: 3px
+}
+.with_mark INPUT + LABEL.checked {
+	BACKGROUND-COLOR: #fff
+}
+.with_mark INPUT:unknown + LABEL {
+	BACKGROUND-COLOR: #fff
+}
+.with_mark .ic_answer {
+	HEIGHT: 13px; WIDTH: 13px; BACKGROUND: url(../../images/exam/icon/ic_answer.png) no-repeat 0px 0px; POSITION: absolute; MARGIN-LEFT: -6px; LEFT: 50%; Z-INDEX: 20; DISPLAY: block; TOP: 2px
+}
+.with_mark .ic_correct {
+	HEIGHT: 28px; WIDTH: 36px; BACKGROUND: url(../../images/exam/icon/ic_correct_s.png) no-repeat center 0px; POSITION: absolute; MARGIN-LEFT: -18px; LEFT: 50%; Z-INDEX: 20; DISPLAY: block; TOP: 1px
+}
+.with_mark .ic_wrong {
+	HEIGHT: 20px; WIDTH: 31px; BACKGROUND: url(../../images/exam/icon/ic_incorrect_s.png) no-repeat center 0px; POSITION: absolute; MARGIN-LEFT: -16px; LEFT: 50%; Z-INDEX: 20; DISPLAY: block; TOP: 5px
+}
+.with_mark INPUT[type=checkbox] {
+	MARGIN-TOP: 8px
+}
+.with_mark EM {
+	COLOR: #ff724c
+}
+.with_mark TBODY TD {
+	FONT-WEIGHT: normal; BORDER-LEFT: 0px
+}
+.with_mark TBODY TD.first_t {
+	BORDER-RIGHT: #e5e5e5 1px solid; FONT-WEIGHT: bold
+}
+.with_mark TBODY TD.last_t {
+	BORDER-LEFT: #e5e5e5 1px solid
+}
+.with_mark .last_row TD {
+	BORDER-TOP: #d9dbd9 1px solid; HEIGHT: 26px
+}
+.with_mark .per STRONG {
+	ZOOM: 1; DISPLAY: inline; PADDING-RIGHT: 10px
+}
+.self_check THEAD TH {
+	BORDER-BOTTOM-WIDTH: 1px
+}
+.self_check TBODY TD {
+	FONT-SIZE: 11px; BORDER-BOTTOM: #e5e5e5 1px solid; FONT-WEIGHT: normal; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; LINE-HEIGHT: 1.2; PADDING-RIGHT: 0px
+}
+.self_check TBODY .last_row TD {
+	PADDING-BOTTOM: 7px; TEXT-ALIGN: left; PADDING-TOP: 7px; PADDING-LEFT: 7px; PADDING-RIGHT: 7px
+}
+.self_check TBODY .last_row TD UL {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 8px; PADDING-LEFT: 3px; PADDING-RIGHT: 0px
+}
+.self_check TBODY .last_row TD LI {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; LINE-HEIGHT: 1.3; PADDING-RIGHT: 0px
+}
+.self_check INPUT.input_st1 {
+	HEIGHT: 10px; TEXT-ALIGN: center
+}
+.exam_timer {
+	HEIGHT: 53px; BACKGROUND: #23409e; TEXT-ALIGN: center; PADDING-TOP: 20px
+}
+.exam_timer STRONG {
+	FONT-SIZE: 26px; BACKGROUND: url(../../images/exam/icon/ic_timer.gif) no-repeat 0px 2px; COLOR: #fff; PADDING-BOTTOM: 3px; PADDING-TOP: 3px; PADDING-LEFT: 40px; DISPLAY: inline-block; LINE-HEIGHT: 27px; PADDING-RIGHT: 0px
+}
+.exam_timer STRONG.examtit {
+	BACKGROUND: none transparent scroll repeat 0% 0%; PADDING-LEFT: 0px
+}
+.quiz_paging {
+	MARGIN-TOP: 12px; TEXT-ALIGN: center
+}
+.quiz_paging * {
+	COLOR: #888; DISPLAY: inline-block; LINE-HEIGHT: 16px
+}
+.quiz_paging SPAN {
+	COLOR: #333
+}
+.quiz_paging .before {
+	BORDER-RIGHT: #d9d9d9 1px solid; BACKGROUND: url(../../images/exam/icon/ic_arrow_l.gif) no-repeat 0px 3px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; MARGIN-RIGHT: 15px
+}
+.quiz_paging .next {
+	BACKGROUND: url(../../images/exam/icon/ic_arrow_r.gif) no-repeat right 3px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 15px; MARGIN-LEFT: 15px; BORDER-LEFT: #d9d9d9 1px solid; PADDING-RIGHT: 15px
+}
+.quiz_paging .current {
+	FONT-SIZE: 13px; HEIGHT: 24px; WIDTH: 24px; BACKGROUND: url(../../images/exam/icon/bg_num.png) no-repeat 0px 0px; FONT-WEIGHT: bold; COLOR: #fff; LINE-HEIGHT: 24px
+}
+EM.blue {
+	COLOR: #23409e
+}
+EM.red {
+	COLOR: #eb1d1e
+}
+.bgcolor {
+	BACKGROUND: #f8f8f8
+}
+.bgcolor2 {
+	BACKGROUND: #f7f7f7
+}
+.select_type_list {
+	MARGIN-BOTTOM: 24px; TEXT-ALIGN: center
+}
+.select_type_list LI {
+	DISPLAY: inline-block
+}
+.select_type_list LI P {
+	MARGIN-BOTTOM: 5px
+}
+.select_layout_area {
+	BACKGROUND: #f4f4f4; PADDING-BOTTOM: 27px; PADDING-TOP: 27px; PADDING-LEFT: 30px; PADDING-RIGHT: 30px
+}
+.select_layout_area H5 {
+	FONT-SIZE: 16px; MARGIN-TOP: -5px; COLOR: #333
+}
+.select_layout_area > .fclear + .tbox {
+	MARGIN-BOTTOM: 10px; HEIGHT: 110px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px
+}
+.select_layout_area > .fclear + .tbox > .inbox {
+	HEIGHT: 110px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.select_layout_area > .fclear + .tbox .tbox {
+	MARGIN-BOTTOM: 0px; MIN-WIDTH: 85px; PADDING-BOTTOM: 3px; PADDING-TOP: 3px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px
+}
+.select_layout_area > .fclear + .tbox .tbox .inbox {
+	FONT-SIZE: 20px; COLOR: #333; PADDING-BOTTOM: 9px; TEXT-ALIGN: center; PADDING-TOP: 7px; PADDING-LEFT: 20px; PADDING-RIGHT: 7px
+}
+.select_layout_area .layout_position {
+	HEIGHT: 110px; POSITION: relative
+}
+.select_layout_area .layout_position LI {
+	BACKGROUND: url(../../images/exam/icon/ic_num1.gif) no-repeat 0px 0px; POSITION: absolute; FONT-WEIGHT: bold; PADDING-LEFT: 26px; LETTER-SPACING: -1px; LINE-HEIGHT: 1
+}
+.select_layout_area .layout_position LI INPUT[type=text] {
+	FONT-WEIGHT: bold; TEXT-ALIGN: center; BACKGROUND-COLOR: transparent
+}
+.select_layout_area .layout_position LI.element01 {
+	FONT-SIZE: 17px; COLOR: #222; LEFT: 175px; TOP: 20px
+}
+.select_layout_area .layout_position LI.element01 INPUT[type=text] {
+	WIDTH: 350px
+}
+.select_layout_area .layout_position LI.element02 {
+	BACKGROUND-IMAGE: url(../../images/exam/icon/ic_num2.gif); LEFT: 175px; TOP: 50px
+}
+.select_layout_area .layout_position LI.element02 INPUT[type=text] {
+	FONT-SIZE: 33px; HEIGHT: 36px; WIDTH: 350px; COLOR: #555; PADDING-BOTTOM: 9px; PADDING-TOP: 3px; LINE-HEIGHT: 35px
+}
+.select_layout_area .layout_position LI.element03 {
+	BACKGROUND: none transparent scroll repeat 0% 0%; MIN-WIDTH: 95px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 24px; TOP: 28px; PADDING-RIGHT: 0px
+}
+.select_layout_area .layout_position LI.element03 .inbox {
+	BACKGROUND: url(../../images/exam/icon/ic_num3.gif) #fff no-repeat 0px 0px
+}
+.select_layout_area .layout_position LI.element03 INPUT[type=text] {
+	FONT-SIZE: 20px; BORDER-TOP: 0px; BORDER-RIGHT: 0px; WIDTH: 85px; BORDER-BOTTOM: 0px; COLOR: #333; BORDER-LEFT: 0px
+}
+.select_layout_area .layout_position LI.element04 {
+	BACKGROUND-IMAGE: url(../../images/exam/icon/ic_num4.gif); RIGHT: 20px; COLOR: #333; TEXT-ALIGN: right; LINE-HEIGHT: 14px; TOP: 15px
+}
+.select_layout_area .layout_position LI.element04 INPUT[type=text] {
+	WIDTH: 100px
+}
+.select_layout_area .layout_position LI.element05 {
+	BACKGROUND-IMAGE: url(../../images/exam/icon/ic_num5.gif); RIGHT: 20px; BOTTOM: 17px
+}
+.select_layout_area TABLE TBODY TH {
+	
+}
+.select_layout_area TABLE TH {
+	COLOR: #333; PADDING-BOTTOM: 2px; TEXT-ALIGN: left; PADDING-TOP: 2px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.select_layout_area TABLE TD {
+	COLOR: #333; PADDING-BOTTOM: 2px; TEXT-ALIGN: left; PADDING-TOP: 2px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.select_layout_area TABLE THEAD TH {
+	FONT-SIZE: 16px; FONT-WEIGHT: bold; PADDING-BOTTOM: 4px; PADDING-TOP: 4px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.type02 .tbox .element03 .tbox {
+	BACKGROUND: #ebebea
+}
+.type02 .tbox .element03 .tbox .inbox {
+	BACKGROUND-COLOR: #ebebea
+}
+.type02 .layout_position LI.element03 .inbox INPUT[type=text] {
+	BACKGROUND-COLOR: #ebebea
+}
+.type03 .layout_position LI.element01 {
+	BACKGROUND-POSITION: right top; PADDING-LEFT: 0px; LEFT: 380px; TOP: 68px; PADDING-RIGHT: 24px
+}
+.type03 .layout_position LI.element01 INPUT[type=text] {
+	WIDTH: 160px
+}
+.type03 .layout_position LI.element02 {
+	PADDING-TOP: 20px; PADDING-LEFT: 8px; LEFT: 7px; TOP: 24px
+}
+.type03 .layout_position LI.element03 {
+	RIGHT: 26px; TOP: 45px
+}
+.type03 .layout_position LI.element03 .inbox {
+	BACKGROUND-POSITION: right top; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 16px
+}
+.type03 .layout_position LI.element03 INPUT[type=text] {
+	
+}
+.type03 .layout_position LI.element04 {
+	HEIGHT: 20px; RIGHT: 26px; LINE-HEIGHT: 18px; TOP: 13px
+}
+.type03 .layout_position LI.element05 {
+	HEIGHT: 20px; BACKGROUND-POSITION: right top; PADDING-LEFT: 0px; LEFT: 40px; LINE-HEIGHT: 18px; TOP: 15px; PADDING-RIGHT: 24px
+}
+.pop_layer_mini {
+	BORDER-TOP: #444 2px solid; HEIGHT: 95px; BORDER-RIGHT: #444 2px solid; WIDTH: 100%; BACKGROUND: #fff; BORDER-BOTTOM: #444 2px solid; POSITION: absolute; PADDING-BOTTOM: 10px; PADDING-TOP: 20px; PADDING-LEFT: 5px; BORDER-LEFT: #444 2px solid; Z-INDEX: 999; PADDING-RIGHT: 5px
+}
+.pop_layer_mini .inner {
+	POSITION: relative; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px
+}
+.pop_layer_mini .inner .txt {
+	FONT-SIZE: 13px; HEIGHT: 75px; OVERFLOW-Y: scroll; COLOR: #000
+}
+.pop_layer_mini .inner .btn_close {
+	RIGHT: -5px; POSITION: absolute; TOP: -20px
+}
+.sec_cerify_eci {
+	HEIGHT: 247px; BACKGROUND: url(../../images/exam/cnt/bg_certify_eci.jpg) no-repeat 0px 0px; POSITION: relative; PADDING-TOP: 650px
+}
+.sec_cerify_eci .text {
+	FONT-SIZE: 20px; BORDER-TOP: #2a8875 1px solid; HEIGHT: 27px; BORDER-RIGHT: #2a8875 1px solid; BORDER-BOTTOM: #2a8875 1px solid; PADDING-BOTTOM: 3px; PADDING-TOP: 3px; PADDING-LEFT: 15px; BORDER-LEFT: #2a8875 1px solid; LINE-HEIGHT: 27px; PADDING-RIGHT: 15px
+}
+.sec_cerify_eci [class^='pos_input'] {
+	POSITION: absolute
+}
+.sec_cerify_eci .pos_input1 {
+	LEFT: 284px; TOP: 652px
+}
+.sec_cerify_eci .pos_input2 {
+	LEFT: 284px; TOP: 698px
+}
+.sec_cerify_eci .pos_input3 {
+	LEFT: 284px; TOP: 742px
+}
+.sec_cerify_eci .pos_input4 {
+	LEFT: 345px; TOP: 800px
+}
+.explanation_box {
+	BORDER-TOP: #d9d9d9 1px solid; HEIGHT: 350px; BORDER-RIGHT: #d9d9d9 1px solid; OVERFLOW-Y: scroll; BORDER-BOTTOM: #d9d9d9 1px solid; BORDER-LEFT: #d9d9d9 1px solid
+}
+.helpbox {
+	DISPLAY: inline-block
+}
+#ly_help {
+	BORDER-TOP: #67686a 1px solid; BORDER-RIGHT: #67686a 1px solid; BACKGROUND: #fff; BORDER-BOTTOM: #67686a 1px solid; POSITION: absolute; PADDING-BOTTOM: 10px; PADDING-TOP: 5px; PADDING-LEFT: 20px; BORDER-LEFT: #67686a 1px solid; MARGIN: 0px 0px 45px; DISPLAY: none; PADDING-RIGHT: 20px; BOTTOM: 0px
+}
+.helpbox .btn_help {
+	CURSOR: pointer
+}
+.helpbox .btn_help:hover + #ly_help {
+	DISPLAY: block
+}
+.sec_visual_exam {
+	HEIGHT: 350px; WIDTH: 840px; BACKGROUND: url(../../images/exam/cnt/bg_visual_exam.jpg) no-repeat left top; POSITION: relative
+}
+.sec_visual_exam .grade {
+	FONT-SIZE: 18px; POSITION: absolute; FONT-WEIGHT: bold; COLOR: #192952; LEFT: 766px; LETTER-SPACING: 0px; TOP: 27px
+}
+.sec_visual_exam .txt {
+	TEXT-ALIGN: center; PADDING-TOP: 105px
+}
+.sec_visual_exam .txt .date {
+	FONT-SIZE: 110px; FONT-FAMILY: Arial, Helvetica, sans-serif; VERTICAL-ALIGN: middle; FONT-WEIGHT: normal; COLOR: #67fff0; LETTER-SPACING: -4px; MARGIN-RIGHT: 15px
+}
+.certify_area#header {
+	HEIGHT: 61px; WIDTH: 100%; BORDER-BOTTOM: #151719 1px solid
+}
+.certify_area#header .inner {
+	WIDTH: 1200px; POSITION: relative; ZOOM: 1; MARGIN: 0px auto
+}
+.certify_area#header .inner:after {
+	CLEAR: both; DISPLAY: block
+}
+.certify_area#header H1 {
+	MARGIN-TOP: 18px; FLOAT: left
+}
+.certify_area#header .util {
+	RIGHT: 0px; POSITION: absolute; TOP: 26px
+}
+.certify_area#header .util LI {
+	FLOAT: left; MARGIN-LEFT: 15px
+}
+.certify_area#header .util LI A {
+	FONT-SIZE: 12px; COLOR: #333; DISPLAY: block
+}
+.certify_area#header .util LI.ico_terms A {
+	BACKGROUND: url(../../images/exam/certify/ic_util01.png) no-repeat left 4px; PADDING-LEFT: 20px
+}
+.certify_area#header .util LI.ico_policy A {
+	BACKGROUND: url(../../images/exam/certify/ic_util02.png) no-repeat left 1px; PADDING-LEFT: 15px
+}
+.certify_area#section {
+	WIDTH: 100%; BACKGROUND: none transparent scroll repeat 0% 0%; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.certify_area #content {
+	WIDTH: 1100px; PADDING-BOTTOM: 120px; PADDING-TOP: 50px; PADDING-LEFT: 0px; MIN-HEIGHT: 600px; MARGIN: 0px auto; PADDING-RIGHT: 0px
+}
+.certify_area #content H2 {
+	FONT-SIZE: 18px; MARGIN-BOTTOM: 10px; FONT-WEIGHT: bold; COLOR: #333
+}
+.bg_certify {
+	HEIGHT: 450px; WIDTH: 100%; BACKGROUND: url(../../images/exam/certify/bg_visual_certify_pattern.gif) left top
+}
+.sec_visual_certify {
+	BACKGROUND: url(../../images/exam/certify/bg_visual_certify.jpg) no-repeat center top
+}
+.sec_visual_certify .inner {
+	WIDTH: 1100px; POSITION: relative; MARGIN: 0px auto
+}
+.sec_visual_certify .benefit {
+	POSITION: absolute; LEFT: 0px; TOP: 270px
+}
+.sec_visual_certify .benefit .tit {
+	WIDTH: 608px; BACKGROUND: url(../../images/exam/certify/bg_h2_benefit.png) no-repeat left 10px; TEXT-ALIGN: center
+}
+.sec_visual_certify .benefit .tit H3 {
+	FONT-SIZE: 18px; FONT-WEIGHT: bold; COLOR: #02767f; LETTER-SPACING: 0px; LINE-HEIGHT: 23px
+}
+.sec_visual_certify .benefit UL {
+	OVERFLOW: hidden; MARGIN-TOP: 17px
+}
+.sec_visual_certify .benefit UL LI {
+	FONT-SIZE: 14px; FLOAT: left; COLOR: #333; PADDING-LEFT: 66px
+}
+.sec_visual_certify .benefit UL LI STRONG {
+	FONT-SIZE: 17px; MARGIN: 3px 0px 1px; DISPLAY: block
+}
+.sec_visual_certify .benefit UL LI EM {
+	FONT-SIZE: 11px; HEIGHT: 18px; BACKGROUND: url(../../images/exam/certify/bg_box_benefit.png) left top; MARGIN-TOP: 10px; COLOR: #fff; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 6px; DISPLAY: inline-block; PADDING-RIGHT: 6px
+}
+.sec_visual_certify .benefit UL LI.ico_point {
+	BACKGROUND: url(../../images/exam/certify/ic_benefit01.png) no-repeat left top
+}
+.sec_visual_certify .benefit UL LI.ico_yap {
+	BACKGROUND: url(../../images/exam/certify/ic_benefit02.png) no-repeat left top; MARGIN-LEFT: 30px
+}
+.certify_area .tbox {
+	OVERFLOW: hidden; MARGIN-BOTTOM: 40px
+}
+.certify_area .tbox .inbox {
+	PADDING-BOTTOM: 20px; PADDING-TOP: 20px; PADDING-LEFT: 35px; PADDING-RIGHT: 35px
+}
+.certify_area .tbox .certify {
+	PADDING-BOTTOM: 20px; PADDING-TOP: 35px; PADDING-LEFT: 45px; PADDING-RIGHT: 45px
+}
+.certify_area .tbox .inbox .list {
+	POSITION: relative
+}
+.certify_area .tbox .inbox .line {
+	BORDER-TOP: #d9d9d9 1px solid; MARGIN-TOP: 20px; PADDING-TOP: 20px; DISPLAY: block
+}
+.certify_area .tbox .inbox UL LI {
+	FONT-SIZE: 15px; BACKGROUND: url(../../images/exam/certify/bg_dash.gif) no-repeat left 12px; COLOR: #333; PADDING-LEFT: 10px; LINE-HEIGHT: 23px
+}
+.certify_area .tbox .inbox .btn_area {
+	RIGHT: 0px; MARGIN-TOP: 0px; POSITION: absolute; TOP: 0px
+}
+.certify_area .tbox .inbox .grade {
+	FONT-SIZE: 16px; VERTICAL-ALIGN: middle; FONT-WEIGHT: bold; COLOR: #333; MARGIN-LEFT: 20px
+}
+.certify_area .tbox .inbox :first-child.grade {
+	MARGIN-LEFT: 0px
+}
+.certify_area .tbox .inbox .txt {
+	FONT-SIZE: 13px; VERTICAL-ALIGN: middle; MARGIN-LEFT: 6px
+}
+.certify_area .desc {
+	PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.certify_area .login_box {
+	OVERFLOW: hidden; BORDER-TOP: #dbdbdb 1px solid; BORDER-RIGHT: #dbdbdb 1px solid; BORDER-BOTTOM: #dbdbdb 1px solid; BORDER-LEFT: #dbdbdb 1px solid
+}
+.certify_area .login_box DL {
+	OVERFLOW: hidden
+}
+.certify_area .login_box DT {
+	HEIGHT: 78px; WIDTH: 218px; BACKGROUND: url(../../images/exam/certify/bg_login_box.gif) left top; FLOAT: left
+}
+.certify_area .login_box DT STRONG {
+	FONT-SIZE: 15px; HEIGHT: 48px; BACKGROUND: url(../../images/exam/certify/bg_login_box_arr01.png) no-repeat right center; TEXT-ALIGN: center; PADDING-TOP: 27px; DISPLAY: block
+}
+.certify_area .login_box DD {
+	FLOAT: left; PADDING-BOTTOM: 21px; PADDING-TOP: 21px; PADDING-LEFT: 43px; PADDING-RIGHT: 0px
+}
+.certify_area .login_box DD LABEL {
+	FONT-SIZE: 13px; COLOR: #333; MARGIN-LEFT: 12px
+}
+.certify_area .login_box DD LABEL:first-child {
+	MARGIN-LEFT: 0px
+}
+.certify_area .login_box DD LABEL INPUT[type='text'] {
+	HEIGHT: 26px; WIDTH: 240px
+}
+.certify_area .login_box DD LABEL INPUT[type='password'] {
+	HEIGHT: 26px; WIDTH: 240px
+}
+.certify_area .login_box DD .btn_gray {
+	FONT-SIZE: 14px; PADDING-BOTTOM: 9px; PADDING-TOP: 7px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px
+}
+.certify_area .login_box DD .btn_blue {
+	FONT-SIZE: 14px; PADDING-BOTTOM: 9px; PADDING-TOP: 7px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px
+}
+.certify_area .btn_login {
+	MARGIN-TOP: 15px; TEXT-ALIGN: right
+}
+.certify_area .btn_login A {
+	FONT-SIZE: 11px; TEXT-DECORATION: underline; COLOR: #333; MARGIN-LEFT: 5px; LETTER-SPACING: 0px
+}
+.pop_grade H3 {
+	HEIGHT: 60px; BACKGROUND: #222636; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 30px; PADDING-RIGHT: 30px
+}
+.pop_grade H3 SPAN {
+	FONT-SIZE: 22px; BACKGROUND: url(../../images/exam/layout/bg_h3_pop.gif) no-repeat right 12px; MARGIN-TOP: 10px; FONT-WEIGHT: bold; COLOR: #fff; DISPLAY: inline-block; PADDING-RIGHT: 15px
+}
+.pop_grade .inner {
+	PADDING-BOTTOM: 30px; PADDING-TOP: 30px; PADDING-LEFT: 30px; PADDING-RIGHT: 30px
+}
+.pop_grade .col2 LI {
+	WIDTH: 493px
+}
+.pop_grade .tbl_data THEAD .sub TH {
+	BACKGROUND: #eff2f8; FONT-WEIGHT: normal
+}
+.pop_grade .tbl_data TH {
+	PADDING-BOTTOM: 7px; PADDING-TOP: 6px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.pop_grade .tbl_data TBODY TH {
+	BACKGROUND: #fff; PADDING-BOTTOM: 7px; TEXT-ALIGN: center; PADDING-TOP: 6px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.pop_grade .tbl_data TBODY TD {
+	BACKGROUND: #fff; PADDING-BOTTOM: 7px; TEXT-ALIGN: center; PADDING-TOP: 6px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.pop_grade .tbl_data TBODY .bgcolor TD {
+	BACKGROUND: #e8eef7
+}
+.pop_grade .tbl_data TBODY .percent {
+	VERTICAL-ALIGN: bottom; PADDING-BOTTOM: 0px; TEXT-ALIGN: right; PADDING-TOP: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.pop_grade .tbl_data TBODY .bg1 {
+	BACKGROUND: #f7f7f7; COLOR: #333
+}
+.pop_grade .tbl_data TBODY .bg2 {
+	BACKGROUND: #eff2f8
+}
+.pop_grade .tbl_data TBODY .txt_l {
+	PADDING-BOTTOM: 7px; PADDING-TOP: 6px; PADDING-LEFT: 14px; PADDING-RIGHT: 14px
+}
+.pop_grade .tbl_data .normal {
+	FONT-WEIGHT: normal
+}
+.pop_grade .percent .rate {
+	WIDTH: 44px; POSITION: relative; MARGIN: 0px auto
+}
+.pop_grade .percent .rate .truth {
+	POSITION: absolute; TEXT-ALIGN: center; LEFT: 0px; BOTTOM: 0px
+}
+.pop_grade .percent .rate .truth .bar {
+	HEIGHT: 20px; WIDTH: 17px; BACKGROUND: #a17e67; DISPLAY: block
+}
+.pop_grade .percent .rate .expect {
+	RIGHT: 0px; POSITION: absolute; TEXT-ALIGN: center; BOTTOM: 0px
+}
+.pop_grade .percent .rate .expect .bar {
+	HEIGHT: 20px; WIDTH: 17px; BACKGROUND: #c7baad; DISPLAY: block
+}
+.pop_grade .percent .rate .tit {
+	WIDTH: 20px; COLOR: #333; MARGIN: 0px 0px 2px -2px; DISPLAY: block
+}
+.pop_grade .map {
+	WIDTH: 115px; POSITION: relative
+}
+.pop_grade .map .tit {
+	FONT-SIZE: 40px; WIDTH: 77px; POSITION: absolute; FONT-WEIGHT: normal; COLOR: #333; TEXT-ALIGN: center; LEFT: 50%; MARGIN: -24px 0px 0px -40px; LINE-HEIGHT: 40px; TOP: 50%
+}
+.pop_grade .grade {
+	MARGIN-TOP: 16px
+}
+.pop_grade .grade {
+	BORDER-TOP: #dbdbdb 1px solid; BORDER-RIGHT: #dbdbdb 1px solid; BORDER-BOTTOM: #dbdbdb 1px solid; POSITION: relative; ZOOM: 1; BORDER-LEFT: #dbdbdb 1px solid
+}
+.pop_grade .grade:after {
+	HEIGHT: 0px; CLEAR: both; DISPLAY: block; VISIBILITY: hidden
+}
+.pop_grade .grade .tit {
+	FONT-SIZE: 15px; HEIGHT: 55px; WIDTH: 103px; BACKGROUND: url(../../images/exam/bg/bg_arr2.gif) #767a86 no-repeat right center; FLOAT: left; COLOR: #fff; TEXT-ALIGN: center; PADDING-TOP: 33px; DISPLAY: block
+}
+.pop_grade .grade .rate {
+	WIDTH: 818px; POSITION: relative; MARGIN: 28px auto 0px
+}
+.pop_grade .grade .position {
+	HEIGHT: 88px; WIDTH: 885px; FLOAT: left; TEXT-ALIGN: center
+}
+.pop_grade .grade .position .num {
+	POSITION: relative
+}
+.pop_grade .grade .position .num EM {
+	WIDTH: 60px; POSITION: absolute; COLOR: #666; TOP: 0px
+}
+.pop_grade .grade .position .num .n1 {
+	LEFT: 7px
+}
+.pop_grade .grade .position .num .n2 {
+	LEFT: 99px
+}
+.pop_grade .grade .position .num .n3 {
+	LEFT: 190px
+}
+.pop_grade .grade .position .num .n4 {
+	LEFT: 281px
+}
+.pop_grade .grade .position .num .n5 {
+	LEFT: 372px
+}
+.pop_grade .grade .position .num .n6 {
+	LEFT: 464px
+}
+.pop_grade .grade .position .num .n7 {
+	LEFT: 555px
+}
+.pop_grade .grade .position .num .n8 {
+	LEFT: 646px
+}
+.pop_grade .grade .position .num .n9 {
+	LEFT: 737px
+}
+.pop_grade .grade .position .num .n10 {
+	LEFT: 825px
+}
+.pop_grade .grade .position .mark {
+	HEIGHT: 35px; WIDTH: 25px; BACKGROUND: url(../../images/exam/icon/ic_position.png) no-repeat left top; POSITION: absolute; LEFT: 0px; TOP: -38px
+}
+.pop_grade .grade .position .mark .sub {
+	COLOR: #23409e; MARGIN: 4px 0px 0px -3px; DISPLAY: block; LETTER-SPACING: 0px
+}
+.pop_grade .progress {
+	HEIGHT: 125px; WIDTH: 20px; POSITION: relative; MARGIN: 0px auto
+}
+.pop_grade .progress .record {
+	POSITION: absolute; TEXT-ALIGN: center; LEFT: 0px; BOTTOM: 0px
+}
+.pop_grade .progress .bar {
+	HEIGHT: 0px; WIDTH: 15px; BACKGROUND: #23409e; MARGIN: 0px auto; DISPLAY: block
+}
+.pop_grade .progress .tit {
+	FONT-SIZE: 11px; MARGIN-BOTTOM: 3px; COLOR: #23409e; DISPLAY: block
+}
+.pop_grade H5 {
+	FONT-SIZE: 15px; COLOR: #666; MARGIN: 30px 0px 10px
+}
+.pop_grade .box_graph {
+	OVERFLOW: hidden
+}
+.pop_grade .box_graph .tbl_data {
+	WIDTH: 530px; FLOAT: left
+}
+.pop_grade .box_graph .result {
+	BORDER-TOP: #ccc 1px solid; HEIGHT: 374px; BORDER-RIGHT: #ccc 1px solid; WIDTH: 428px; BORDER-BOTTOM: #ccc 1px solid; FLOAT: right; BORDER-LEFT: #ccc 1px solid
+}
+.pop_grade .box_graph .result .tit {
+	HEIGHT: 38px; BACKGROUND: url(../../images/exam/bg/bg_box_tbl.gif) left top
+}
+.pop_grade .box_graph .result .tit H6 {
+	FONT-SIZE: 15px; COLOR: #23409e; TEXT-ALIGN: center; LINE-HEIGHT: 37px
+}
+.pop_grade .box_graph .result .graph {
+	HEIGHT: 240px; WIDTH: 410px; PADDING-BOTTOM: 48px; PADDING-TOP: 48px; PADDING-LEFT: 9px; PADDING-RIGHT: 9px
+}
+.pop_grade .sub_tab_m {
+	MARGIN: 20px 0px
+}
+.pop_grade .tbox {
+	MARGIN-BOTTOM: 20px
+}
+.pop_grade .tbox .inbox {
+	BACKGROUND: #f7f7f7; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.pop_grade .tbox .inbox .tit {
+	FONT-SIZE: 15px; FLOAT: left; COLOR: #23409e; PADDING-BOTTOM: 15px; TEXT-ALIGN: center; PADDING-TOP: 15px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px
+}
+.pop_grade .tbox .inbox .txt {
+	FONT-SIZE: 15px; BACKGROUND: #fff; FLOAT: left; COLOR: #333; PADDING-BOTTOM: 15px; PADDING-TOP: 15px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px
+}
+.pop_grade .tbox .standard .tit {
+	WIDTH: 180px
+}
+.pop_grade .tbox .standard .txt {
+	WIDTH: 720px
+}
+.pop_grade .tbox .means .tit {
+	HEIGHT: 21px; WIDTH: 220px; PADDING-TOP: 30px
+}
+.pop_grade .tbox .means .txt {
+	FONT-SIZE: 13px; WIDTH: 640px; PADDING-BOTTOM: 15px; PADDING-TOP: 15px; PADDING-LEFT: 40px; PADDING-RIGHT: 40px
+}
+.pop_grade .tbox .support .tit {
+	WIDTH: 107px
+}
+.pop_grade .tbox .support .txt {
+	WIDTH: 260px; FONT-WEIGHT: bold
+}
+.pop_grade .tbox .support .last {
+	WIDTH: 346px
+}
+.pop_grade .box_tbl {
+	OVERFLOW: hidden
+}
+.pop_grade .type1 .tbl_data {
+	WIDTH: 48.5%
+}
+.pop_grade .type2 .f_left {
+	WIDTH: 72%
+}
+.pop_grade .type2 .f_right {
+	WIDTH: 25%
+}
+.pop_grade .type3 .f_left {
+	WIDTH: 63%
+}
+.pop_grade .type3 .f_right {
+	WIDTH: 34%
+}
+.pop_grade .type4 .f_left {
+	WIDTH: 77%
+}
+.pop_grade .type4 .f_right {
+	WIDTH: 20%
+}
+.pop_grade .box_tbl .tbl_data .box TH {
+	BORDER-TOP: #666 1px solid; BORDER-BOTTOM: #666 1px solid
+}
+.pop_grade .box_tbl .tbl_data .box TD {
+	BORDER-TOP: #666 1px solid; BORDER-BOTTOM: #666 1px solid
+}
+.pop_grade .box_tbl .tbl_data .box .first {
+	BORDER-LEFT: #666 1px solid
+}
+.pop_grade .box_tbl .tbl_data .box .last {
+	BORDER-RIGHT: #666 1px solid
+}
+.pop_grade .box_tbl .tbl_data .group {
+	BACKGROUND: #e8eef7; PADDING-BOTTOM: 20px; PADDING-TOP: 20px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px
+}
+.pop_grade .box_tbl .tbl_data .group TD {
+	COLOR: #333
+}
+.pop_grade .box_tbl .standard .tit {
+	WIDTH: 180px
+}
+.pop_grade .box_tbl .standard .txt {
+	WIDTH: 209px
+}
+.pop_grade .support_list {
+	OVERFLOW: hidden
+}
+.pop_grade .support_list LI {
+	BORDER-TOP: #dbdbdb 1px solid; HEIGHT: 118px; BORDER-RIGHT: #dbdbdb 1px solid; WIDTH: 323px; BORDER-BOTTOM: #dbdbdb 1px solid; FLOAT: left; TEXT-ALIGN: center; MARGIN-LEFT: 7px; BORDER-LEFT: #dbdbdb 1px solid
+}
+.pop_grade .support_list LI:first-child {
+	MARGIN-LEFT: 0px
+}
+.pop_grade .support_list LI .tit {
+	FONT-SIZE: 15px; HEIGHT: 45px; BACKGROUND: #f7f7f7; COLOR: #333; DISPLAY: block; LINE-HEIGHT: 44px
+}
+.pop_grade .support_list LI P {
+	FONT-SIZE: 15px; MARGIN-TOP: 16px
+}
+.pop_grade .support_list LI:first-child P {
+	MARGIN-TOP: 25px
+}
+.pop_grade .uni_info {
+	OVERFLOW: hidden; MARGIN: 40px 0px 20px
+}
+.pop_grade .uni_info .f_left {
+	WIDTH: 200px
+}
+.pop_grade .uni_info .f_left .tbox {
+	MARGIN-BOTTOM: 0px
+}
+.pop_grade .uni_info .f_left .tbox .tit {
+	FONT-SIZE: 17px; HEIGHT: 75px; FLOAT: none; COLOR: #333; TEXT-ALIGN: center; PADDING-TOP: 70px; DISPLAY: block
+}
+.pop_grade .uni_info .f_right {
+	WIDTH: 776px
+}
+.pop_grade .uni_info .f_right .support_list LI {
+	HEIGHT: 168px; WIDTH: 384px; MARGIN-LEFT: 2px
+}
+.pop_grade .uni_info .f_right .support_list LI P {
+	OVERFLOW: hidden; MARGIN: 0px
+}
+.pop_grade .uni_info .f_right .support_list LI P STRONG {
+	FONT-SIZE: 23px; WIDTH: 162px; FLOAT: left; FONT-WEIGHT: bold; TEXT-ALIGN: center; PADDING-TOP: 45px; DISPLAY: block
+}
+.pop_grade .uni_info .f_right .support_list LI P STRONG.f_none {
+	WIDTH: auto; FLOAT: none
+}
+.pop_grade .uni_info .f_right .support_list LI P .list {
+	FONT-SIZE: 12px; WIDTH: 222px; FLOAT: right; COLOR: #333; TEXT-ALIGN: left; PADDING-TOP: 15px; LINE-HEIGHT: 18px
+}
+.viewerGuide .sub_tab_basic LI {
+	WIDTH: 320px
+}
+.box_exam {
+	MARGIN-TOP: 30px
+}
+.box_exam .scroll {
+	BORDER-TOP: #9c9fab 1px solid; HEIGHT: 690px; BORDER-RIGHT: #9c9fab 1px solid; WIDTH: 760px; BORDER-BOTTOM: #9c9fab 1px solid; PADDING-BOTTOM: 30px; PADDING-TOP: 30px; PADDING-LEFT: 30px; BORDER-LEFT: #9c9fab 1px solid; PADDING-RIGHT: 48px
+}
+.box_exam .rain_box {
+	BACKGROUND: url(../../images/exam/bg/bg_line6.gif) left top; MARGIN-TOP: 20px; ZOOM: 1; PADDING-BOTTOM: 13px; PADDING-TOP: 11px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px
+}
+.box_exam .rain_box:after {
+	CLEAR: both; DISPLAY: block
+}
+.box_exam .rain_box STRONG {
+	COLOR: #333
+}
+.box_exam .rain_box .helpbox {
+	POSITION: relative; DISPLAY: inline
+}
+.ly_help {
+	BORDER-TOP: #67686a 1px solid; BORDER-RIGHT: #67686a 1px solid; BACKGROUND: #fff; RIGHT: 0px; BORDER-BOTTOM: #67686a 1px solid; POSITION: absolute; PADDING-BOTTOM: 14px; PADDING-TOP: 8px; PADDING-LEFT: 10px; BORDER-LEFT: #67686a 1px solid; MARGIN: 0px 0px 45px; DISPLAY: none; PADDING-RIGHT: 10px; BOTTOM: -17px
+}
+.ly_help .p_notice {
+	MARGIN-TOP: 2px; COLOR: #222
+}
+.helpbox .btn_help:hover + .ly_help {
+	DISPLAY: block
+}
+.recordEvt_visual {
+	HEIGHT: 678px; BACKGROUND: url(../../images/exam/cnt/bg_recordEvt.jpg) no-repeat 0px 0px; POSITION: relative
+}
+.recordEvt_visual .guide_list {
+	POSITION: absolute; LEFT: 113px; TOP: 258px
+}
+.recordEvt_visual .guide_list LI {
+	FONT-SIZE: 14px; BACKGROUND: url(../../images/exam/cnt/ico_recordEvt_chk.png) no-repeat 0px 4px; COLOR: #c9cfe5; PADDING-LEFT: 20px; LINE-HEIGHT: 22px
+}
+.recordEvt_visual .evt_info {
+	BACKGROUND: url(../../images/exam/cnt/bg_recordEvt_info.png) #fff no-repeat 0px bottom; POSITION: absolute; PADDING-BOTTOM: 0px; PADDING-TOP: 26px; PADDING-LEFT: 20px; LEFT: 40px; TOP: 398px; PADDING-RIGHT: 0px
+}
+.recordEvt_visual .evt_info > UL > LI {
+	FONT-SIZE: 15px; MARGIN-TOP: 4px; POSITION: relative; COLOR: #333; PADDING-LEFT: 103px; MIN-HEIGHT: 30px; LETTER-SPACING: -0.02em
+}
+.recordEvt_visual .evt_info LI .th {
+	FONT-SIZE: 13px; HEIGHT: 30px; WIDTH: 94px; BACKGROUND: #61687f; POSITION: absolute; FONT-WEIGHT: bold; COLOR: #fff; TEXT-ALIGN: center; LEFT: 0px; DISPLAY: inline-block; LETTER-SPACING: -0.07em; LINE-HEIGHT: 30px; TOP: -4px
+}
+.recordEvt_visual .evt_info LI .date {
+	FONT-SIZE: 17px; FONT-WEIGHT: bold; COLOR: #222
+}
+.recordEvt_visual .evt_info LI .noti LI {
+	FONT-SIZE: 13px; BACKGROUND: url(../../images/exam/bg/bg_bar6.gif) no-repeat 0px 8px; COLOR: #666; PADDING-LEFT: 10px; LINE-HEIGHT: 20px
+}
+.recordEvt_tbl {
+	MARGIN-TOP: 26px; POSITION: relative
+}
+.recordEvt_tbl .t_before {
+	FONT-SIZE: 30px; WIDTH: 100%; POSITION: absolute; FONT-WEIGHT: bold; COLOR: #fff; TEXT-ALIGN: center; PADDING-TOP: 200px; LEFT: 0px; Z-INDEX: 10; LINE-HEIGHT: 40px; TOP: 0px
+}
+.recordEvt_tbl .fw_normal {
+	FONT-WEIGHT: normal
+}
+.sec_search_set {
+	BORDER-TOP: #7b8591 3px solid; BORDER-RIGHT: #7b8591 3px solid; BORDER-BOTTOM: #7b8591 3px solid; BORDER-LEFT: #7b8591 3px solid; MARGIN: 40px 0px 20px
+}
+.sec_search_set DT {
+	FONT-SIZE: 15px; BACKGROUND: #7b8591; FONT-WEIGHT: bold; COLOR: #fff; PADDING-BOTTOM: 13px; PADDING-TOP: 9px; PADDING-LEFT: 30px; LETTER-SPACING: -1px; PADDING-RIGHT: 25px
+}
+.sec_search_set DD {
+	POSITION: relative; PADDING-BOTTOM: 24px; PADDING-TOP: 24px; PADDING-LEFT: 33px; PADDING-RIGHT: 33px
+}
+.sec_search_set DD .btn_area {
+	RIGHT: 43px; POSITION: absolute; MARGIN: 0px; TOP: 20px
+}
+.wrap_result_set {
+	OVERFLOW: hidden; BORDER-TOP: #262626 1px solid; MARGIN-TOP: 40px
+}
+.wrap_result_set .h_top {
+	MARGIN-BOTTOM: 20px; BACKGROUND: #f3f3f3; POSITION: relative; PADDING-BOTTOM: 12px; PADDING-TOP: 8px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.wrap_result_set .h_top .tit {
+	PADDING-LEFT: 20px; MARGIN: 0px
+}
+.wrap_result_set .h_top .option {
+	RIGHT: 15px; POSITION: absolute; TOP: 13px
+}
+.wrap_result_set .h_top .option LABEL {
+	FONT-SIZE: 15px; MARGIN-LEFT: 27px
+}
+.wrap_result_set .f_left {
+	WIDTH: 504px
+}
+.wrap_result_set .f_right {
+	WIDTH: 294px
+}
+.wrap_result_set .wrap_result {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.wrap_result_set .t_top {
+	PADDING-RIGHT: 19px
+}
+.wrap_result_set .wrap_result .tbl_data TABLE {
+	BORDER-TOP-COLOR: #dbdbdb
+}
+.wrap_result_set .wrap_result .tbl_data TH {
+	PADDING-BOTTOM: 5px; PADDING-TOP: 5px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px
+}
+.wrap_result_set .wrap_result .tbl_data TD {
+	PADDING-BOTTOM: 5px; PADDING-TOP: 5px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px
+}
+.line {
+	BACKGROUND: url(../../images/exam/bg/bg_line7.gif) repeat-x left top; MARGIN-TOP: 40px
+}
